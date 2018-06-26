@@ -31,7 +31,7 @@ Ești responsabil de a considera în mod regulat cum să adopți Scopul Rolului 
 
 #### 1.2.3 PROCESAREA PROIECTELOR
 
-Ești responsabil spre a considera în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare să duci proiectul mai departe.
+Ești responsabil spre a considera în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare pentru a duce proiectul mai departe.
 
 #### 1.2.4 URMĂRIREA PROIECTELOR, ACȚIUNILOR URMĂTOARE ȘI A TENSIUNILOR
 
