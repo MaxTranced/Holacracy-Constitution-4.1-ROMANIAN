@@ -2,27 +2,27 @@
 
 ### PREAMBUL
 
-Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și operarea unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva care sunt de acord să facă parte din Guvernanța și operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție, precum și să se fie de acord cu îndatoririle și constrângerile acesteia. 
+Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și pentru operaţiunile unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva care sunt de acord să facă parte din Guvernanța și operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție, precum și să se fie de acord cu îndatoririle și constrângerile acesteia. 
 
 ## ARTICOLUL I: ROLURI ENERGIZANTE
 
-### 1.1 DEFINIŢIA UNUI ROL
+### 1.1 DEFINIREA UNUI ROL
 
-Partenerii Organizației vor efectua activități lucrative pentru Organizație în contextul definit explicit al unui Rol. Un **_”Rol”_** reprezintă un construct organizațional cu un nume descriptiv și una sau mai multe din următoarele:
+Partenerii Organizației vor efectua de obicei activități lucrative pentru Organizație în contextul definit explicit al unui Rol. Un **_”Rol”_** reprezintă un construct organizațional cu un nume descriptiv și una sau mai multe din următoarele:
 
-- **(a)** un **_“Scop”_**, ce reprezintă o capacitate, un potențial sau un obiectiv nerealizat pe care Rolul îl va urmări sau manifesta pentru Organizație.
-- **(b)** unul sau mai multe **_“Domenii”_**, care sunt lucruri pe care Rolul poate să le controleze și reglementeze în mod exclusiv ca și proprietatea sa, în numele Organizației.
-- **(c)** una sau mai multe **_“Responsabilități”_**, care sunt activități continue ale Organizației pe care Rolul le va efectua. 
+- **(a)** un **_“Scop”_**, ce reprezintă o capacitate, un potențial sau un obiectiv nerealizabil pe care Rolul îl va urmări sau manifesta pentru Organizație.
+- **(b)** unul sau mai multe **_“Domenii”_**, care sunt lucruri pe care Rolul poate să le controleze şi reglementeze în mod exclusiv ca și când ar fi proprietatea sa, în numele Organizației.
+- **(c)** una sau mai multe **_“Responsabilități”_**, care sunt activități continue ale Organizației pe care Rolul le va întreprinde. 
 
 ### 1.2 RESPONSABILITĂȚILE ÎNDEPLINIRII UNUI ROL
 
-Ca și Partener al Organizației, ai următoarele responsabilități pentru fiecare rol care ți-a fost alocat și ai fost de acord să îl îndeplinești:
+Ca și Partener al Organizației, ai următoarele responsabilități pentru fiecare Rol care ți-a fost alocat și pe ai fost de acord să îl îndeplinești:
 
 #### 1.2.1 PROCESAREA TENSIUNILOR
 
-Ești responsabil de monitorizarea modului in care Scopul și Responsabilitățile Rolului tău sunt clar definite, să le compari cu propria ta viziune de manifestare ideală a acestuia, de a identifica diferențele dintre realitatea curentă și expresia potențialului lui ideal (fiecare diferență este o **_”Tensiune”_**). Ești de asemenea responsabil de a încerca rezolvarea acestor Tensiuni folosindu-te de autoritățile și alte mecanisme disponibile în această Constituție. 
+Ești responsabil de monitorizarea felului în care Scopul și Responsabilitățile Rolului tău sunt clar definite, eşti responsabil să le compari cu propria ta viziune de manifestare ideală în ceea ce le priveşte, eşti responsabil să identifici diferențele dintre realitatea prezentă și potenţialul pe care îl simţi (fiecare diferență este o **_”Tensiune”_**). De asemenea, ești responsabil să încerci să rezolvi aceste Tensiuni, folosindu-te de autoritățile și de alte mecanisme care vă sunt disponibile în temeiul aceastei Constituții. 
 
-#### 1.2.2 URMĂRIREA SCOPULUI ȘI RESPONSABILITĂȚILOR 
+#### 1.2.2 SCOPUL PRELUCRĂRII ŞI RESPONSABILITĂŢI
 
 Ești responsabil de a considera în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
 
