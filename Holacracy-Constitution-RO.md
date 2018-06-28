@@ -2,11 +2,11 @@
 
 ### PREAMBUL
 
-Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și operarea unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva care agreează să ia parte din Guvernanța și operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție, precum și să se conformeze la îndatoririle și constrângerile acesteia. 
+Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și operarea unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva care sunt de acord să facă parte din Guvernanța și operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție, precum și să se fie de acord cu îndatoririle și constrângerile acesteia. 
 
 ## ARTICOLUL I: ROLURI ENERGIZANTE
 
-### 1.1 DEFINIREA UNUI ROL
+### 1.1 DEFINIŢIA UNUI ROL
 
 Partenerii Organizației vor efectua activități lucrative pentru Organizație în contextul definit explicit al unui Rol. Un **_”Rol”_** reprezintă un construct organizațional cu un nume descriptiv și una sau mai multe din următoarele:
 
@@ -16,7 +16,7 @@ Partenerii Organizației vor efectua activități lucrative pentru Organizație 
 
 ### 1.2 RESPONSABILITĂȚILE ÎNDEPLINIRII UNUI ROL
 
-Ca și Partener al Organizației, ai următoarele responsabilități pentru fiecare rol care ți-a fost alocat și ai agreat să îl îndeplinești:
+Ca și Partener al Organizației, ai următoarele responsabilități pentru fiecare rol care ți-a fost alocat și ai fost de acord să îl îndeplinești:
 
 #### 1.2.1 PROCESAREA TENSIUNILOR
 
