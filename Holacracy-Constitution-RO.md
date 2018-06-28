@@ -20,18 +20,18 @@ Ca și Partener al Organizației, ai următoarele responsabilități pentru fiec
 
 #### 1.2.1 PROCESAREA TENSIUNILOR
 
-Ești responsabil de monitorizarea felului în care Scopul și Responsabilitățile Rolului tău sunt clar definite, eşti responsabil să le compari cu propria ta viziune de manifestare ideală în ceea ce le priveşte, eşti responsabil să identifici diferențele dintre realitatea prezentă și potenţialul pe care îl simţi (fiecare diferență este o **_”Tensiune”_**). De asemenea, ești responsabil să încerci să rezolvi aceste Tensiuni, folosindu-te de autoritățile și de alte mecanisme care vă sunt disponibile în temeiul aceastei Constituții. 
+Ești responsabil de monitorizarea felului în care Scopul și Responsabilitățile Rolului tău sunt clar definite, eşti responsabil să le compari cu propria ta viziune de manifestare ideală în ceea ce le priveşte, eşti responsabil să identifici diferențele dintre realitatea prezentă și potenţialul pe care îl simţi (fiecare diferență este o **_”Tensiune”_**). De asemenea, ești responsabil să încerci să rezolvi aceste Tensiuni, folosindu-te de autoritățile și de alte mecanisme care îţi sunt disponibile în temeiul aceastei Constituții. 
 
 #### 1.2.2 SCOPUL PRELUCRĂRII ŞI RESPONSABILITĂŢI
 
-Ești responsabil de a considera în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
+Ești responsabil să apreciezi în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
 
-- **(a)** **_"Acțiunile Următoare"_**, care sunt acțiuni pe care le poți executa imediat și care sunt utile să fie executate imediat, cel puțin în absența unor priorități concurente; și 
-- **(b)** **_"Proiecte"_**, care sunt rezultate specifice ce necesită realizarea de mai multe acțiuni secvențiale și care sunt utile spre a fi realizate, cel puțin în lipsa unor priorități concurente. 
+- **(a)** **_"Acțiunile Următoare"_**, care sunt acțiuni pe care le poți executa imediat și care sunt utile a fi executate imediat, cel puțin în absența unor priorități concurente; și 
+- **(b)** **_"Proiecte"_**, care sunt rezultate specifice care au nevoie de realizarea a mai multor acțiuni secvențiale și care sunt utile a fi realizate, cel puțin în lipsa unor priorități concurente. 
 
 #### 1.2.3 PROCESAREA PROIECTELOR
 
-Ești responsabil spre a considera în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare pentru a duce proiectul mai departe.
+Ești responsabil să consideri în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare pentru a duce proiectul mai departe.PAUZA
 
 #### 1.2.4 URMĂRIREA PROIECTELOR, ACȚIUNILOR URMĂTOARE ȘI A TENSIUNILOR
 
