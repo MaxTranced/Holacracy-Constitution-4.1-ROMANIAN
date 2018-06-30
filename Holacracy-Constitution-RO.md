@@ -2,15 +2,15 @@
 
 ### PREAMBUL
 
-Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și pentru operaţiunile unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva este de acord să facă parte din Guvernanța și din operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție, precum și să se fie de acord cu îndatoririle și constrângerile acesteia. 
+Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și pentru operaţiunile unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva este de acord să facă parte din Guvernanță și din operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție, precum și să se fie de acord cu îndatoririle și constrângerile acesteia. 
 
 ## ARTICOLUL I: ROLURI ENERGIZANTE
 
 ### 1.1 DEFINIREA UNUI ROL
 
-Partenerii Organizației vor efectua de obicei activități lucrative pentru Organizație în contextul definit explicit al unui Rol. Un **_”Rol”_** reprezintă un construct organizațional cu un nume descriptiv și una sau mai multe din următoarele:
+Partenerii Organizației vor efectua de obicei activități lucrative pentru Organizație în contextul definit explicit al unui Rol. Un **_”Rol”_** reprezintă un construct organizațional cu un nume descriptiv și una sau mai multe din următoarele opţiuni:
 
-- **(a)** un **_“Scop”_**, ce reprezintă o capacitate, un potențial sau un obiectiv nerealizabil pe care Rolul îl va urmări sau manifesta pentru Organizație.
+- **(a)** un **_“Scop”_**, ce reprezintă o capacitate, un potențial sau un obiectiv nerealizabil pe care Rolul îl va urmări sau manifesta în numele Organizației.
 - **(b)** unul sau mai multe **_“Domenii”_**, care sunt lucruri pe care Rolul poate să le controleze şi reglementeze în mod exclusiv ca și când ar fi proprietatea sa, în numele Organizației.
 - **(c)** una sau mai multe **_“Responsabilități”_**, care sunt activități continue ale Organizației pe care Rolul le va întreprinde. 
 
@@ -20,26 +20,26 @@ Ca și Partener al Organizației, ai următoarele responsabilități pentru fiec
 
 #### 1.2.1 PROCESAREA TENSIUNILOR
 
-Ești responsabil de monitorizarea felului în care Scopul și Responsabilitățile Rolului tău sunt clar definite, eşti responsabil să le compari cu propria ta viziune de manifestare ideală în ceea ce le priveşte, eşti responsabil să identifici diferențele dintre realitatea prezentă și potenţialul pe care îl simţi (fiecare diferență este o **_”Tensiune”_**). De asemenea, ești responsabil să încerci să rezolvi aceste Tensiuni, folosindu-te de autoritățile și de alte mecanisme care îţi sunt disponibile în temeiul aceastei Constituții. 
+Ești responsabil de monitorizarea felului în care Scopul și Responsabilitățile Rolului tău sunt clar definite, eşti responsabil să le compari cu propria ta viziune în care se pot manifesta ideal- în ceea ce le priveşte, eşti responsabil să identifici diferențele dintre realitatea prezentă și potenţialul pe care îl simţi (fiecare diferență este o **_”Tensiune”_**). De asemenea, ești responsabil să încerci să rezolvi aceste Tensiuni, folosindu-te de autoritățile și de alte mecanisme care îţi sunt disponibile în temeiul aceastei Constituții. 
 
 #### 1.2.2 SCOPUL PRELUCRĂRII ŞI RESPONSABILITĂŢI
 
-Ești responsabil să apreciezi în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
+Ești responsabil să cântăreşti în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
 
 - **(a)** **_"Acțiunile Următoare"_**, care sunt acțiuni pe care le poți executa imediat și care sunt utile a fi executate imediat, cel puțin în absența unor priorități concurente; și 
 - **(b)** **_"Proiecte"_**, care sunt rezultate specifice care au nevoie de realizarea a mai multor acțiuni secvențiale și care sunt utile a fi realizate, cel puțin în lipsa unor priorități concurente. 
 
 #### 1.2.3 PROCESAREA PROIECTELOR
 
-Ești responsabil să consideri în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare pentru a duce proiectul mai departe.PAUZA
+Ești responsabil să gândeşti în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare pentru a duce proiectul mai departe.PAUZA
 
-#### 1.2.4 URMĂRIREA PROIECTELOR, ACȚIUNILOR URMĂTOARE ȘI A TENSIUNILOR
+#### 1.2.4 URMĂRIREA PROIECTELOR, A ACȚIUNILOR URMĂTOARE ȘI A TENSIUNILOR
 
-Ești responsabil pentru colectarea și urmărirea tuturor Proiectelor tale și a Acțiunilor Următoare ce țin de Rolul tău într-o bază de date sau o altă formă tangibilă, precum și pentru revizia și aducerea la zi a acestei baze de date încât ea să reprezinte o sursă credibilă a muncii prezente și viitoare din Rolul tău. Ești responsabil de asemenea pentru urmărirea oricărei tensiuni identificate în Rolul tău, cel puțin până când le vei procesa în Proiecte și Acțiuni Următoare dorite sau sunt rezolvate.
+Ești responsabil să colectezi și să urmăreşti toate Proiectele și Acțiunile Următoare ce țin de Rolul tău într-o bază de date sau într-o altă formă tangibilă, precum și să revizuieşti și să aduci la zi acestă baze de date, astfel încât ea să reprezinte o sursă credibilă a muncii prezente și viitoare care aparţine Rolului tău. Ești responsabil de asemenea să urmăreşti orice Tensiuni identifici în Rolul tău, cel puțin până când le vei procesa în Proiecte și Acțiuni Următoare dorite sau dacă nu, să le rezolvi.
 
-#### 1.2.5 DIRECȚIONAREA ATENȚIEI ȘI RESURSELOR
+#### 1.2.5 DIRECȚIONAREA ATENȚIEI ȘI A RESURSELOR
 
-Oricând ai timp disponibil să acționezi în Rolul tău, ești responsabil pentru a lua în calcul potențialele Acțiuni Următoare pe care le poți efectua în mod eficient și eficace în acel moment de timp, și să execuți orice crezi de cuviință că va aduce cea mai mare valoare Organizației în acel context.
+De fiecare dată când ai timp disponibil să acționezi în Rolul tău, ești responsabil să iei în calcul potențialele Acțiuni Următoare pe care le poți realiza în mod eficient și eficace în acel moment din timp și să execuți orice crezi tu de cuviință că va aduce cea mai mare plus-valoare Organizației în acel context.
 
 ### 1.3 AUTORITATEA DE ACȚIUNE
 
