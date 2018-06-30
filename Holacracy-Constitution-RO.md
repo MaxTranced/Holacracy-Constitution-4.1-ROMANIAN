@@ -43,23 +43,23 @@ De fiecare dată când ai timp disponibil să acționezi în Rolul tău, ești r
 
 ### 1.3 AUTORITATEA DE ACȚIUNE
 
-Ca și Partener care și-a asumat un Rol, ai autoritatea de a executa orice Acțiune Următoare consideri tu de cuviință a fi folositoare în îndeplinirea Scopului și Responsabilităților Rolului.
+Ca și Partener căruia i-a fost atribuit un Rol, ai autoritatea de a executa orice Acțiune Următoare consideri tu de cuviință că e folositoare pentru îndeplinirea Scopului și Responsabilităților Rolului.
 
-Însă nu poți să îți exerciți controlul sau să cauzezi un impact material într-un Domeniu deținut de un alt Rol sau altă entitate suverană, decât dacă ai permisiunea lor. Autoritatea oferită în acest paragraf este mai clar specificată în Secțiunea 2.1.3.
+Însă nu poți să îți exerciți controlul sau să cauzezi un impact fizic într-un Domeniu deținut de un alt Rol sau de o altă entitate suverană decât dacă ai permisiunea lor. Autoritatea acordată în acest paragraf este în continuare limitată în cadrul Secțiunii 2.1.3.
 
 ### 1.4 AUTORITATEA PESTE DOMENII
 
-Ca și Partener care și-a asumat un rol, ai autoritatea de a controla și reglementa fiecare Domeniu al Rolului tău. Poți face asta de la caz la caz atunci când alții îți cer permisiunea să îți influențeze unul din Domeniile tale, prin a lua în considerare solicitarea și a-i permite sau nu permisiunea.
+Ca și Partener căruia i-a fost atribuit un rol, ai autoritatea de a controla și de a reglementa fiecare Domeniu al Rolului tău. Poți face asta de la caz la caz atunci când alții îți cer permisiunea să influențeze unul din Domeniile tale, prin a lua în considerare solicitarea și a-i permite sau nu permisiunea.
 
-Poți de asemenea să definești **_”Politici”_** pentru Domeniile tale, care sunt ori concesii de autoritate care le permite altora controlul sau să cauzeze un impact în cadrul Domeniului tău, sau să limiteze modul în care alții pot acționa când sunt autorizați. Înainte ca o Politică să fie validă, ea trebuie publicată într-un forum accesibil tuturor Partenerilor care vor fi influențați de aceasta.
+Poți de asemenea să definești **_”Politici”_** pentru Domeniile tale, care sunt ori concesii de autoritate care le permite altora să controleze sau să cauzeze un impact fizic în cadrul unui Domeniu, sau să limiteze modul în care alții pot acționa când sunt autorizați. Înainte ca o Politică să fie validă, tu trebuie să o publici într-un forum accesibil tuturor Partenerilor care vor fi influențați de aceasta.
 
-Autoritatea oferită în acest paragraf este mai clar specificată în Secțiunea 2.1.3.
+Autorităţiile care v-au fost acordate în acestă secţiune pot fi limitate în continuare de constrângerile definite în Secțiunea 2.1.3.
 
-## ARTICOLUL II STRUCTURA CERCULUI
+## ARTICOLUL II: STRUCTURA CERCULUI PAUZA
 
 ### 2.1 BAZELE CERCULUI
 
-Un **_“Cerc”_** este un Rol care poate fi sub-divizat definindu-și propriile Roluri pentru a-și atinge Scopul, să își controleze Domeniile și să-și adopte Responsabilitățile. Rolurile pe care Cercul le definește sunt **_”Roluri Definite”_** și oricine își asumă un astfel de rol devine un **_”Membru al Cercului”_**.
+Un **_“Cerc”_** este un Rol care poate fi subdivizat, definindu-și propriile Roluri pentru a-și atinge Scopul, pentru a-şi controla Domeniile și pentru a-şi adopta Responsabilitățile. Rolurile pe care Cercul le definește sunt **_”Roluri Definite”_** și oricine își asumă un astfel de rol devine un **_”Membru al Cercului”_**.
 
 #### 2.1.1 DEFINIREA ROLURILOR ȘI POLITICILOR
 
