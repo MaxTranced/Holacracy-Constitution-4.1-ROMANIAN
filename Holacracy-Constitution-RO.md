@@ -55,23 +55,23 @@ Poți de asemenea să definești **_”Politici”_** pentru Domeniile tale, car
 
 Autorităţiile care v-au fost acordate în acestă secţiune pot fi limitate în continuare de constrângerile definite în Secțiunea 2.1.3.
 
-## ARTICOLUL II: STRUCTURA CERCULUI PAUZA
+## ARTICOLUL II: STRUCTURA CERCULUI 
 
-### 2.1 BAZELE CERCULUI
+### 2.1 ELEMENTELE DE BAZĂ ALE CERCULUI
 
-Un **_“Cerc”_** este un Rol care poate fi subdivizat, definindu-și propriile Roluri pentru a-și atinge Scopul, pentru a-şi controla Domeniile și pentru a-şi adopta Responsabilitățile. Rolurile pe care Cercul le definește sunt **_”Roluri Definite”_** și oricine își asumă un astfel de rol devine un **_”Membru al Cercului”_**.
+Un **_“Cerc”_** este un Rol care poate fi subdivizat, definindu-și propriile Roluri pentru a-și atinge Scopul, pentru a-şi controla Domeniile și pentru a-şi adopta Responsabilitățile. Rolurile pe care Cercul le definește sunt **_”Roluri Definite”_** și oricine îşi îndeplineşte unul dintre Rolurile Definite devine un **_”Membru al Cercului”_**.
 
-#### 2.1.1 DEFINIREA ROLURILOR ȘI POLITICILOR
+#### 2.1.1 DEFINIREA ROLURILOR ȘI A POLITICILOR
 
-Fiecare Cerc va folosi **_”Procesul de Guvernanță”_** descris în Articolul III al acestei Constituții pentru a defini și a amenda Roluri în cadrul Cercului sau Politici care guvernează Domeniul Cercului. Nimeni nu poate defini sau amenda un Rol sau o Politică a Cercului în afara Procesului de Guvernanță, decât dacă este în mod explicit permis de o altă regulă a acestei Constituții. 
+Fiecare Cerc va folosi **_”Procesul de Guvernanță”_** descris în Articolul III al acestei Constituții pentru a defini și a amenda Roluri în cadrul Cercului sau Politici care guvernează Domeniul Cercului. Nimeni nu poate defini sau amenda nişte Roluri sau nişte Politici ale Cercului din afara Procesului de Guvernanță, decât dacă este în mod explicit permis de o altă regulă a acestei Constituții. 
 
 În plus, fiecare Cerc poate să își controleze propriile funcții și activități, precum și Domeniul Cercului, în scopul definirii Politicilor care limitează Rolurile din Cerc.
 
-#### 2.1.2 ROLURILE POT IMPACTA DOMENIILE CERCULUI
+#### 2.1.2 ROLURILE POT AVEA IMPACT ASUPRA DOMENIILOR CERCULUI
 
-Când împlinești un Rol în cerc, poți utiliza și impacta orice Domeniu controlat de Cerc sau pe care Cercul este autorizat să îl impacteze. Totuși, trebuie să te supui la orice reglementare asupra Cercului sau definită printr-o Politică a Cercului, și nu vei putea controla sau reglementa în totalitate Domeniul conform termenilor din Secțiunea 1.4.
+Când împlinești un Rol în cerc, poți utiliza și poţi avea impact asupra oricărui Domeniu controlat de Cerc însuşi sau asupra căruia Cercul este autorizat să aibă impact. Totuși, trebuie să te supui oricărei constrângeri acţionând asupra Cercului sau care este definită printr-o Politică a Cercului și nu vei putea controla sau reglementa în totalitate Domeniul conform termenilor din Secțiunea 1.4.
 
-În plus, nu poți transfera sau elimina un Domeniu sau orice alt activ din acel Domeniu, sau să limitezi în mod semnificativ vreun drept al Cercului asupra Domeniului. Oricum, aceste restricții nu se aplică dacă un Rol sau un proces care deține autoritatea necesară îți oferă permisiunea să o faci.
+În plus, nu poți transfera sau elimina un Domeniu sau orice alte active importante din acel Domeniu sau să limitezi în mod semnificativ vreun drept al Cercului asupra Domeniului. În orice caz, aceste restricții nu se aplică dacă un Rol sau un proces care deține autoritatea necesară îți oferă permisiunea să o faci.
 
 #### 2.1.3 DELEGAREA CONTROLULUI
 
