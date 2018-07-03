@@ -165,7 +165,7 @@ Fiecare Cerc include un **_”Rol de Facilitator”_**, un **_”Rol de Secretar
 
 #### 2.5.1 ALEGERI ȘI ELIGIBILITATE PAUUUZA
 
-Facilitatorul fiecărui Cerc va facilita alegerile regulate în vederea alegerii unui Membru de Baza a Cercului în fiecare din Rolurile Votate, folosind procesul și regulile definite în Articolul III.
+Facilitatorul fiecărui Cerc va înlesni alegerile regulate în vederea alegerii unui Membru de Baza a Cercului în fiecare din Rolurile Votate, folosind procesul și regulile definite în Articolul III.
 
 Toți Membrii De Baza ai Cercului sunt eligibili pentru alegeri si fiecare pot deține mai multe Roluri Votate, cu excepția Lead Link-ului Cercului, care nu poate fi ales ca si Facilitator sau Rep Link.
 
@@ -175,23 +175,23 @@ Toți Membrii De Baza ai Cercului sunt eligibili pentru alegeri si fiecare pot d
 
 #### 2.5.3 MODIFICAREA ROLURILOR ALESE
 
-Un Cerc poate adăuga Responsabilități sau Domenii la Rolurile Votate, precum  și să le modifice sau să le reprime ulterior.
+Un Cerc poate adăuga Responsabilități sau Domenii la Rolurile Votate, de asemenea poate să le modifice sau să le reprime ulterior.
 
-Însă, un Cerc poate adăuga aceste lucruri doar la propriul Rol de Rep Link și nu la un Rep Link delegat în Cerc de un alt Sub-Cerc.
+Însă un Cerc poate adăuga aceste lucruri doar la propriul Rol de Rep Link și nu la un Rep Link delegat în Cerc de un alt Sub-Cerc.
 
-În plus, nici un Cerc nu poate modifica sau elimina Scopul, Domeniul, Responsabilitățile sau autoritățile oferite unui Rol Votat prin această Constituție, sau să elimine integral un Rol Votat.
+În continuare, nici un Cerc nu poate modifica sau elimina Scopul, Domeniul, Responsabilitățile sau autoritățile oferite unui Rol Votat prin această Constituție, sau să elimine integral un Rol Votat.
 
-#### 2.5.4 ÎNLOCUITOR PENTRU ROLURI VOTATE
+#### 2.5.4 ÎNLOCUITORI PENTRU ROLURI VOTATE
 
-Un înlocuitor poate temporar funcționa ca și Rol Votat atunci când Rolul este vacant sau când persoana care în mod normal împlinește acel Rol este indisponibilă pentru o întâlnire a Cercului sau se simte în incapacitate sau lipsă de motivație să își exercite îndatoririle date de Rol.
+Un înlocuitor poate îndeplini temporar un Rol Votat atunci când Rolul este vacant sau când persoana care în mod normal împlinește acel Rol este indisponibilă pentru o întâlnire a Cercului sau se simte în incapacitate ori dovedeşte o lipsă de motivație să își exercite îndatoririle date de Rol.
 
 În oricare din aceste situații, atunci când e necesar un înlocuitor, acesta este stabilit în ordinea următoare:
 
-- **(a)** cineva specificat explicit de deținătorul de drept al Rolului, sau de
+- **(a)** cineva specificat în mod explicit de către deținătorul de drept al Rolului, sau de
 - **(b)** Facilitatorul curent al Cercului, sau de
 - **(c)** Secretarul curent al Cercului, sau de 
 - **(d)** Lead Link-ul Cercului, sau de 
-- **(e)** Primul Membru de Baza al Cercului care se auto-propune să fie înlocuitor.
+- **(e)** Primul Membru de Baza al Cercului care se autopropune să fie înlocuitor.
 
 ### 2.6 SUB-CERCURI
 
@@ -213,13 +213,13 @@ Prin Procesul de Guvernanță, un cerc poate elimina un Sub-Cerc. Acest lucru se
 
 #### 2.6.3 LEAD LINK-UL DIN SUB-CERC
 
-Un Lead Link al Cercului poate numi persoane care să împlinească Rolul de Lead Link pentru fiecare Sub-Cerc, utilizând aceleași reguli de numire pentru un Lead Link ca și pentru oricare Rol Definit din Cerc.
+Un Lead Link al Cercului poate numi persoane care să împlinească Rolul de Lead Link pentru fiecare Sub-Cerc, folosind aceleași reguli de numire pentru un Lead Link ca și pentru oricare Rol Definit din Cerc.
 
 #### 2.6.4 REP LINK-UL DIN SUPER-CERC
 
-Fiecare Cerc își alege în mod normal un Rep Link pentru Supra-Cercul său. Însă, această alegere nu e necesară atunci când un Cerc duce lipsă de alți Membrii de Bază în afară de Lead Link sau de Cross Link. În acest caz, chiar dacă au loc alegeri, Rep Link-ul votat nu va deveni Membru de Baza al Supra-Cercului.
+Fiecare Cerc își alege în mod normal un Rep Link pentru Supra-Cercul său. În orice caz, această alegere nu e necesară atunci când un Cerc duce lipsă de alți Membri de Bază în afară de Lead Link sau de Cross Link. În acest caz, chiar dacă au loc alegeri, Rep Link-ul votat nu va deveni Membru de Baza al Supra-Cercului.
 
-### 2.7 CROSS LINK-UL
+### 2.7 CROSS LINK-UL--------------------PAUZA
 
 Un Cerc poate crea o **_”Politică de Cross Link”_** prin care invită orice entitate sau grup spre a participa în cadrul Procesului de Guvernanță al cercului și a operațiunilor sale. Entitatea sau grupul invitate să participe vor fi **_”Entitate Link”_** și poate fi externă organizației sau poate fi un Rol sau un alt Cerc din interiorul organizației. Cercul care va primi acest link va fi numit **_”Cerc Țintă”_** și trebuie să fie Cercul care a formulat această Politică sau unul din Sub-Cercurile sale.
 
