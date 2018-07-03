@@ -75,38 +75,38 @@ Când împlinești un Rol în cerc, poți utiliza și poţi avea impact asupra o
 
 #### 2.1.3 DELEGAREA CONTROLULUI
 
-Când un Cerc definește un Domeniu asupra unui Rol, autoritatea Cercului de a impacta, controla și reglementa respectivul Domeniu este delegată acelui Rol și scoasă din Cerc.
+Când un Cerc definește un Domeniu asupra unui Rol, autoritatea Cercului de a avea impact, de a controla și de a reglementa respectivul Domeniu este delegată acelui Rol și scoasă din Cerc.
 
-Oricum, Cercul menține dreptul de a amenda sau revoca delegarea acelui Domeniu, sau să definească sau modifice Politicile care vor susține sau constrânge autoritatea Rolului în acel Domeniu. 
+În orice caz, Cercul reţine dreptul de a amenda sau de a revoca delegarea acelui Domeniu sau de a defini ori modifica Politicile care vor susține sau constrânge autoritatea Rolului în acel Domeniu. 
 
-În principiu, orice Domeniu delegat în acest mod exclude autoritatea de a elimina efectiv Domeniul sau orice alt activ semnificativ din acel Domeniu, sau să fie transferat în afara Cercului, sau să limiteze semnificativ vreun drept al Cercului asupra Domeniului. De asemenea, un cerc poate delega aceste autorități limitate, prin oferirea în mod explicit a permisiunii în cadrul unei Politici a Cercului.
+În mod implicit, orice Domenii delegate în acest fel exclud autoritatea de a elimina efectiv Domeniul sau orice alt activ semnificativ din acel Domeniu, sau să fie transferat în afara Cercului sau de a limita semnificativ vreun drept al Cercului asupra Domeniului. De asemenea, un cerc poate delega aceste autorități limitate prin oferirea în mod explicit a permisiunii în cadrul unei Politici a Cercului.
 
-În orice caz, toate delegările de Domenii sunt întotdeauna limitate la autoritatea pe care Cercul o avea în prima instanță. 
+În orice caz, toate delegările de Domenii sunt întotdeauna limitate de către orice autoritate pe care Cercul o avea în prima instanță. 
 
 ### 2.2 LEAD-LINK-UL CERCULUI
 
 Fiecare cerc are un **_”Rol de Lead-Link”_** a cărui responsabilitate și autoritate sunt definite în Anexa A, precum și în această secțiune.
 
-Persoana care împlinește Rolul de Lead Link, atâta timp cât acționează în această capacitate, va fi menționat ca și **_”Lead Link”_** al cercului. 
+Persoana care împlinește Rolul de Lead Link, atâta timp cât acționează în această abilitate, va fi menționat ca și **_”Lead Link”_** al cercului. 
 
 #### 2.2.1 DEȚINE FUNCȚII NEDIFERENȚIATE
 
-Lead Link-ul cercului moștenește Scopul și Responsabilitățile efective ale cercului, și controlează orice Domeniu definit de cerc, ca și când cercul ar avea un singur rol și Lead Link-ul ar împlini acel Rol. Oricum, acest lucru este valabil doar dacă acele Responsabilități și Domenii nu au fost poziționate într-un alt Rol din cadrul cercului sau delegat într-un alt mod.
+Lead Link-ul cercului moștenește Scopul și orice Responsabilități efective ale Cercului și controlează orice Domeniu definit de cerc, ca și când Cercul ar avea un singur rol și Lead Link-ul ar împlini acel Rol. În orice caz, acest lucru este valabil doar dacă acele Responsabilități și Domenii nu au fost poziționate într-un alt Rol din cadrul Cercului sau delegat într-un alt mod.
 
-De menționat că Lead Link-ul nu poate formula Politici care să limiteze in vreun fel Rolurile cercului, cu excepția procesului de Guvernanță a cercului. 
+În continuare, Lead Link-ul nu poate formula Politici care să limiteze in vreun fel Rolurile cercului, cu excepția Procesului de Guvernanță a Cercului. 
 
 #### 2.2.2 DEFINEȘTE PRIORITĂȚI & STRATEGII
 
-Lead Link-ul cercului poate defini prioritățile relative pentru cerc.
+Lead Link-ul Cercului poate defini prioritățile relative pentru cerc.
 
-În plus, Lead Link-ul poate defini o **_”Strategie”_** pentru cerc, sau mai multe strategii, care să fie folosită ca și ghid pentru Rolurile din cerc în a-și stabili în mod continuu propriile priorități.
+În plus, Lead Link-ul poate defini o **_”Strategie”_** mai generală pentru Cerc sau mai multe Strategii care să fie folosite ca și ghid pentru Rolurile din Cerc în a-și stabili în mod continuu propriile priorități.
 
 #### 2.2.3 MODIFICAREA ROLULUI DE LEAD LINK
 
-Un cerc nu poate adăuga alte Responsabilități sau alte funcțiuni la propriul Lead Link, să îi schimbe Scopul Rolului, sau să îndepărteze Rolul cu totul.
+Un cerc nu poate adăuga alte Responsabilități sau alte funcțiuni la propriul Lead Link, de asemenea nu poate să modifice Scopul Rolului, sau să îndepărteze Rolul cu totul.
 
-Oricum, un cerc poate să retragă orice Responsabilitate, Domenii, autorități sau funcțiuni avute de Rolul de Lead Link, ori prin plasarea lor la un alt Rol din același cerc, sau prin definirea de modalități alternative de a fi îndeplinite. 
-Când acest lucru se întâmplă, în mod automat orice element relevant sau autoritate a Rolului de Lead Link va fi îndepărtată, atâta timp cât delegarea este activă.
+Oricum, un cerc poate să retragă orice Responsabilitate, Domenii, autorități sau funcțiuni avute de Rolul de Lead Link, ori prin plasarea lor la un alt Rol din același Cerc sau prin definirea de modalități alternative de a fi îndeplinite. 
+Când acest lucru se întâmplă, în mod automat orice element relevant sau autoritate a Rolului de Lead Link va fi îndepărtată, atâta timp cât delegarea rămâne in vigoare.
 
 ### 2.3 MEMBRII DE BAZĂ AI CERCULUI
 
@@ -116,18 +116,18 @@ Acești **_”Membrii de Baza ai Cercului”_** sunt aleși prin utilizarea urm�
 
 #### 2.3.1 CALITATEA DE MEMBRU
 
-În afara cazurilor explicite menționate în această secțiune sau în cazul unei numiri speciale, Membrii de Baza ai Cercului sunt: 
+În afara cazurilor explicite menționate în această secțiune sau în cazul unei numiri speciale, Membrii de Bază ai Cercului sunt: 
 
 - **(a)** fiecare Partener care împlinește un Rol Definit în Cerc, 
-- **(b)** Lead Link-ul Cercului, așa cum e definit în Secțiunea 2.2;
+- **(b)** Lead Link-ul Cercului, așa cum este el definit în Secțiunea 2.2;
 - **(c)** fiecare Rep Link ales de către Cerc, așa cum e definit în Secțiunea 2.6. 4;
 - **(d)** și fiecare Cross Link din Cerc, precum e definit in Secțiunea 2.7.
 
 #### 2.3.2 EXCLUDERE PENTRU ROLURI MULTIPLE
 
-Dacă mai mulți Parteneri sunt alocați la același Rol Definit din Cerc, Cercul poate să adopte o Politică care să limiteze câți dintre aceștia sunt Membrii de Bază ai Cercului ca urmare a alocării acelui Rol. Însă, acea Politică trebuie să permită cel puțin unui Partener care împlinește acel Rol să îl reprezinte ca și Membru de Bază al Cercului și trebuie să specifice modul în care acel reprezentant va fi determinat.
+Dacă mai mulți Parteneri sunt alocați la același Rol Definit din Cerc, Cercul poate să adopte o Politică care să limiteze câți dintre aceștia sunt Membrii de Bază ai Cercului ca urmare a alocării acelui Rol. Însă acea Politică trebuie să permită cel puțin unui Partener care împlinește acel Rol să îl reprezinte ca și Membru de Bază al Cercului și trebuie să specifice modul în care acel reprezentant va fi determinat.
 
-În plus, fiecare Partener care reprezintă acel Rol are datoria de a lua în considerare și a procesa Tensiunile vehiculate de Partenerii excluși, în același mod prin care un Rep Link o face ca Rol al unui Sub-Cerc, cu excepția cazului în care există o Politică care definește în mod alternativ o modalitate prin care Partenerii excluși să își proceseze Tensiunile legate de acel Rol.
+În plus, fiecare Partener care reprezintă acel Rol are datoria de a lua în considerare și a procesa Tensiunile vehiculate de către Partenerii excluși, în același mod prin care un Rep Link o face ca Rol al unui Sub-Cerc, cu excepția cazului în care există o Politică care definește în mod alternativ o modalitate prin care Partenerii excluși să își proceseze Tensiunile legate de acel Rol.
 
 #### 2.3.3 EXCLUDERE PENTRU ALOCĂRI MINORE
 
@@ -137,11 +137,11 @@ Dacă un Partener a fost exclus în acest mod, Lead Link-ul are datoria de a lua
 
 #### 2.3.4 NUMIRI SPECIALE DE MEMBRII DE BAZĂ
 
-Lead Link-ul unui Cerc poate numi în mod special o persoană adițională pentru a servi ca Membru de Baza a Cercului, în afara specificațiilor acestei Constituții, și poate îndepărta această numire specială în orice moment.
+Lead Link-ul unui Cerc poate numi în mod special persoane adiționale pentru a servi ca Membru de Baza a Cercului, în afara specificațiilor acestei Constituții și poate îndepărta această numire specială în orice moment.
 
 ### 2.4 ATRIBUIREA ROLURILOR
 
-Lead Link-ul unui Cerc poate atribui oamenilor Roluri Definite de Cerc pe care aceștia să le împlinească, cu excepția cazului în care această autoritate i-a fost limitată sau delegată.
+Lead Link-ul unui Cerc poate atribui oamenilor Roluri Definite în Cerc, roluri pe care aceștia să le împlinească, cu excepția cazului în care această autoritate i-a fost limitată sau delegată.
 
 #### 2.4.1 ROLURI NEOCUPATE
 
@@ -149,21 +149,21 @@ Oricând un Rol Definit din Cerc nu este ocupat, Lead Link-ul acelui Cerc se con
 
 #### 2.4.2 ATRIBUIREA ACELUIAȘI ROL LA MAI MULTE PERSOANE
 
-Un Lead Link poate atribui același Rol Definit la mai multe persoane, atâta timp cât acest lucru nu va afecta negativ claritatea asupra la cine trebuie să împlinească Responsabilitățile și autoritățile acelui Rol în contextul standard de operare. 
+Un Lead Link poate atribui același Rol Definit mai multor persoane, atâta timp cât acest lucru nu va afecta negativ claritatea în ceea ce le priveşte pe persoanele care trebuie să împlinească Responsabilitățile și autoritățile acelui Rol în contextul standard de operare. 
 
-Ca și modalitate de a păstra claritatea, un Lead Link poate specifica un ”Focus” pentru fiecare sarcină, care poate fi o zonă sau un context pentru aceea persoană la care ea să se concentreze atâta timp cât execută acel Rol.
+Ca și modalitate de a păstra claritatea, un Lead Link poate specifica un ”Focus” pentru fiecare sarcină, care poate fi o zonă sau un context pentru aceea persoană- la care ea să se concentreze atâta timp cât execută acel Rol.
 
-Când un Rol atribuit include un Focus, atunci Scopul, Responsabilitățile și Domeniile definite pentru acel Rol sunt aplicabile doar în cadrul particular al acelui Focus.
+Atunci când un Rol atribuit include un Focus, atunci Scopul, Responsabilitățile și Domeniile definite pentru acel Rol sunt aplicabile doar în cadrul particular al acelui Focus pentru acea persoană particulară.
 
 #### 2.4.3 RENUNȚAREA LA ROLURI
 
-Când împlinești un Rol, poți renunța la acesta în orice moment, cu excepția cazului în care este agreat altcumva, printr-un preaviz către cine controlează alocarea acelui rol – tipic, către Lead Link-ul Cercului.
+Când împlinești un Rol, poți renunța la acesta în orice moment, cu excepția cazului în care este stabilit altfel, printr-un preaviz către persoana care controlează alocarea acelui Rol – mai exact, către Lead Link-ul Cercului.
 
 ### 2.5 ROLURI VOTATE
 
 Fiecare Cerc include un **_”Rol de Facilitator”_**, un **_”Rol de Secretar”_**, si un **_”Rol de Rep Link”_** după definițiile oferite in Anexa A. Acestea sunt **_”Rolurile Votate”_** ale Cercului, iar persoanele care împlinesc aceste roluri devin **_”Facilitatorul”_**, **_”Secretarul”_** sau **_”Rep Link-ul”_** Cercului.
 
-#### 2.5.1 ALEGERI ȘI ELIGIBILITATE
+#### 2.5.1 ALEGERI ȘI ELIGIBILITATE PAUUUZA
 
 Facilitatorul fiecărui Cerc va facilita alegerile regulate în vederea alegerii unui Membru de Baza a Cercului în fiecare din Rolurile Votate, folosind procesul și regulile definite în Articolul III.
 
