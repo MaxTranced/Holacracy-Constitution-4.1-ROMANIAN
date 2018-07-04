@@ -349,7 +349,7 @@ Facilitatorul este responsabil de prezidarea tuturor Întâlnirilor de Guvernan�
 
 #### 3.3.1 PREZENȚĂ
 
-Toți Membrii de Bază a Cercului au dreptul de a participa pe deplin la toate Întâlnirile de Guvernanță ale unui Cerc. Facilitatorul și Secretarul sunt, de asemenea, îndreptățiți să participe pe deplin, și devin Membrii de Bază a Cercului pe durata unei Întâlniri de Guvernanță, chiar dacă aceștia nu sunt în mod normal Membrii de Bază a Cercului.
+Toți Membrii de Bază a Cercului au dreptul de a participa pe deplin la toate Întâlnirile de Guvernanță ale unui Cerc. Facilitatorul și Secretarul sunt, de asemenea, îndreptățiți să participe pe deplin și devin Membrii de Bază a Cercului pe durata unei Întâlniri de Guvernanță, chiar dacă aceștia nu sunt în mod normal Membrii de Bază a Cercului.
 
 In plus, Lead Link-ul și orice Rep Link sau Cross Link la Cerc pot fiecare să invite până la o persoană în plus, numai pentru a ajuta Link-ul în procesarea unei Tensiuni specifice. Participantul care a fost invitat devine și el un Membru de Bază al Cercului pe durata acestei Întâlniri de Guvernanță.
 
@@ -357,28 +357,28 @@ In plus, Lead Link-ul și orice Rep Link sau Cross Link la Cerc pot fiecare să 
 
 #### 3.3.2 NOTIFICĂRI & QVORUM
 
-Un Cerc poate realiza Procesul său de Guvernanță în cadrul unei întâlniri doar în cazul în care Secretarul a informat pe toți Membrii de Bază ai Cercului cu suficient timp înainte că o astfel de întâlnire va avea loc, inclusiv ora, data și locația.
+Un Cerc poate realiza Procesul său de Guvernanță în cadrul unei întâlniri doar în cazul în care Secretarul a informat pe toți Membrii de Bază ai Cercului cu suficient timp înainte că o astfel de întâlnire va avea loc, inclusiv ora, data și adresa.
 
 Dincolo de această cerință de notificare, nu există nici un cvorum necesar pentru ca un Cerc să efectueze o Întâlnire de Guvernanță, cu excepția cazului în care este specificat de o Politică a Cercului.
 
-Orice persoană care nu reușește să participe la o Întâlnire de Guvernanță se consideră că a avut posibilitatea de a lua în considerare toate Propunerile făcute în cadrul reuniunii, și nu a ridicat obiecții la adoptarea acestora.
+Se consideră că orice persoană care nu reușește să participe la o Întâlnire de Guvernanță a avut posibilitatea de a lua în considerare toate Propunerile făcute în cadrul reuniunii și nu a ridicat obiecții la adoptarea acestora.
 
-#### 3.3.3 DESFĂȘURAREA ÎNT LNIRII
+#### 3.3.3 DESFĂȘURAREA ÎNTÂLNIRII
 
-Facilitatorul trebuie să utilizeze următorul proces al unei Întâlniri de Guvernanță:
+Facilitatorul trebuie să folosească următorul proces pentru Întâlnirile de Guvernanță:
 
-- **(a) Rundă de Check-in:** Facilitatorul permite fiecărui participant prezent de a împărtăși starea lor actuală sau gândurile avute, sau care să ofere un alt fel de comentariu pentru a deschide întâlnirea. Comentariile nu sunt permise.
-- **(b) Preocupări administrative:** Facilitatorul oferă spațiu de discuție si rezolvare a oricărei probleme administrative sau logistice pe care Facilitatorul le consideră demne de atenție.
+- **(a) Rundă de Check-in:** Facilitatorul permite fiecărui participant prezent să împărtăşească starea sa actuală sau gândurile avute sau să ofere un alt fel de comentariu pentru a deschide întâlnirea. Comentariile nu sunt permise.
+- **(b) Preocupări administrative:** Facilitatorul oferă spațiu de discuție si rezolvare a oricărei probleme administrative sau logistice pe care Facilitatorul o consideră demnă de atenție.
 - **(c) Construirea ordinii de zi și Prelucrare:** Facilitatorul realizează o agendă de Tensiuni pentru a fi procesate, apoi le oferă pe rând spre prelucrare.
-- **(d) Rundă de închidere:** Facilitatorul permite fiecărui participant să împărtășească o reflecție de închidere sau un gând declanșat de întâlnire. Comentariile nu sunt permise.
+- **(d) Rundă de închidere:** Facilitatorul permite fiecărui participant să împărtășească o părere de închidere sau un gând declanșat de întâlnire. Comentariile nu sunt permise.
 
-O Politică a Cercului poate adăuga pași la acest proces, atâta timp cât nu intră în conflict cu oricare etapă sau alte reguli definite în prezentul articol din Constituție.
+O Politică a Cercului poate adăuga pași la acest proces, atâta timp cât nu intră în conflict cu oricare etapă sau cu alte reguli definite în prezentul articol din Constituție.
 
 #### 3.3.4 REALIZAREA ORDINII DE ZI
 
-Facilitatorul trebuie să construiască o ordine de zi cu Tensiuni pentru a fi procesate într-o Întâlnire de Guvernanță prin solicitarea și capturarea sugestiilor venite de la toți participanții. Acest lucru trebuie să fie făcut în cadrul Întâlnirii și nu în prealabil, și fiecare participant poate adăuga cât mai multe elemente pe ordinea de zi după cum dorește. Participanții pot adăuga elemente suplimentare pe ordinea de zi în cadrul Întâlnirii, între procesarea oricăror elemente de pe ordinea de zi existentă.
+Facilitatorul trebuie să construiască o ordine de zi cu Tensiuni pentru a fi procesate într-o Întâlnire de Guvernanță, prin solicitarea și capturarea sugestiilor venite de la toți participanții. Acest lucru trebuie să fie făcut în cadrul Întâlnirii și nu în prealabil, iar fiecare participant poate adăuga cât mai multe elemente pe ordinea de zi, după cum dorește. Participanții pot adăuga elemente suplimentare pe ordinea de zi în cadrul Întâlnirii, între procesarea oricăror elemente de pe ordinea de zi existentă.
 
-- **(a) Formatul unui element de pe ordinea de zi:** Fiecare element de pe ordinea de zi într-o Întâlnire de Guvernanță reprezintă o Tensiunea pentru procesare, detectată de către participantul care a adăugat-o la ordinea de zi. Atunci când adăugă un element pe ordinea de zi, un participant poate furniza doar o scurtă etichetă pentru Tensiune, și nu poate explica sau discuta despre aceasta până la procesarea efectivă a acelui element pe ordinea de zi.
+- **(a) Formatul unui element de pe ordinea de zi:** Fiecare element de pe ordinea de zi în cadrul unei Întâlniri de Guvernanță reprezintă o Tensiunea pentru procesare, detectată de către participantul care a adăugat-o la ordinea de zi. Atunci când adăugă un element pe ordinea de zi, un participant poate furniza doar o scurtă etichetă pentru Tensiune și nu poate explica sau discuta despre aceasta până la procesarea efectivă a acelui element pe ordinea de zi.
 - **(b) Organizarea ordinii de zi:** Facilitatorul poate determina ordinea în care se vor procesa elementele de pe ordinea de zi, folosind orice proces sau criteriu pe care acesta le consideră adecvate. Cu toate acestea, Facilitatorul trebuie să plaseze înainte de toate celelalte puncte de pe ordinea de zi orice punct care solicită Alegerea unui Rol Ales din Cerc, dacă acest lucru este solicitat de către orice participant la ședință. Mai mult, dacă Întâlnirea a fost programată la cererea specială a unui participant, Facilitatorul trebuie să plaseze toate elementele de pe ordinea de zi ridicate de acel participant, înainte de orice alte puncte ridicate de către alții, cu excepția cazului în care participantul permite altfel.
 - **(c) Procesarea punctelor de pe ordinea de zi:** Odată ce Facilitatorul determină ordinea inițială pentru ordinea de zi, Facilitatorul trebuie să conducă participanții la procesarea fiecărui element de pe ordinea de zi, unul câte unul. Pentru a procesa un element care solicită Alegeri, Facilitatorul trebuie să folosească **_"Procesul Electoral Integrat”_** care este definit în secțiunea 3.3.6. Pentru a procesa orice alt punct din agendă, Facilitatorul trebuie să folosească **_"Procesul Decizional Integrat"_** definit în secțiunea 3.3.5.
 
