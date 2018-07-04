@@ -8,7 +8,7 @@ Această **_”Constituție”_** definește regulile și procedurile pentru Guv
 
 ### 1.1 DEFINIREA UNUI ROL
 
-Partenerii Organizației vor efectua de obicei activități lucrative pentru Organizație în contextul definit explicit al unui Rol. Un **_”Rol”_** reprezintă un construct organizațional cu un nume descriptiv și una sau mai multe din următoarele opţiuni:
+Partenerii Organizației vor efectua de obicei activități lucrative pentru Organizație în contextul definit explicit al unui Rol. Un **_”Rol”_** reprezintă un construct organizațional cu un nume descriptiv și una sau mai multe din următoarele:
 
 - **(a)** un **_“Scop”_**, ce reprezintă o capacitate, un potențial sau un obiectiv nerealizabil pe care Rolul îl va urmări sau manifesta în numele Organizației.
 - **(b)** unul sau mai multe **_“Domenii”_**, care sunt lucruri pe care Rolul poate să le controleze şi reglementeze în mod exclusiv ca și când ar fi proprietatea sa, în numele Organizației.
