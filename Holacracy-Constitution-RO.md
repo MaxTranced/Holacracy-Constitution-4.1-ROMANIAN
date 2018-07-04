@@ -219,29 +219,29 @@ Un Lead Link al Cercului poate numi persoane care să împlinească Rolul de Lea
 
 Fiecare Cerc își alege în mod normal un Rep Link pentru Supra-Cercul său. În orice caz, această alegere nu e necesară atunci când un Cerc duce lipsă de alți Membri de Bază în afară de Lead Link sau de Cross Link. În acest caz, chiar dacă au loc alegeri, Rep Link-ul votat nu va deveni Membru de Baza al Supra-Cercului.
 
-### 2.7 CROSS LINK-UL--------------------PAUZA
+### 2.7 CROSS LINK-UL
 
-Un Cerc poate crea o **_”Politică de Cross Link”_** prin care invită orice entitate sau grup spre a participa în cadrul Procesului de Guvernanță al cercului și a operațiunilor sale. Entitatea sau grupul invitate să participe vor fi **_”Entitate Link”_** și poate fi externă organizației sau poate fi un Rol sau un alt Cerc din interiorul organizației. Cercul care va primi acest link va fi numit **_”Cerc Țintă”_** și trebuie să fie Cercul care a formulat această Politică sau unul din Sub-Cercurile sale.
+Un Cerc poate crea o **_”Politică de Cross Link”_** prin care invită orice entitate sau grup să participe în cadrul Procesului de Guvernanță al Cercului și a operațiunilor sale. Entitatea sau grupul invitate să participe vor fi **_”Entitate Link”_** și poate fi externă organizației sau poate fi un Rol sau un alt Cerc din interiorul organizației. Cercul care va primi acest link va fi numit **_”Cerc Țintă”_** și trebuie să fie Cercul care a formulat această Politică sau unul din Sub-Cercurile sale.
 
-Odată ce o Politică de Cross Link este adoptată, ”Entitatea Link” poate desemna un reprezentant să participe în Cercul Țintă sub condițiile acestei secțiuni, în afara cazului în care termeni alternativi sunt prevăzuți în Politica formulată.
+Odată ce o Politică de Cross Link este adoptată, ”Entitatea Link” poate desemna un reprezentant să participe în Cercul Țintă sub condițiile acestei secțiuni, cu excepţia cazului în care termeni alternativi sunt prevăzuți în Politica formulată.
 
 #### 2.7.1 ROLUL DE CROSS LINK
 
-Dacă Entitatea Link este un Rol, atunci acel Rol poate participa în Cercul Țintă precum este descris mai jos. Acesta devine **_”Rolul de Cross Link”_**, iar persoana care îl împlinește devine un **_”Cross Link”_**.
+Dacă Entitatea Link este un Rol, atunci acel Rol poate participa în Cercul Țintă aşa cum este descris mai jos. Acesta devine **_”Rolul de Cross Link”_**, iar persoana care îl împlinește devine un **_”Cross Link”_**.
 
 Dacă Entitatea Link este un Cerc sau grup, atunci un nou Rol De Cross Link este creat automat în locul ei și se va situa între Entitatea Link și Cercul Țintă, la fel precum un Rep Link. În acest caz, Rolul de Cross Link are același Scop și Responsabilități ca un Rep Link, dar în ”Cercul” la care se face referință în descrierea Rolului de ”Rep Link” avem în loc Entitatea Link, și “Super-Cercul” însemnând Cercul Țintă.
 
-Dacă Entitatea Link nu are un Scop clar și Responsabilități clare, atunci Politica la Cross Link trebuie să clarifice care e Rolul la Cross Link în Cercul Țintă.
+Dacă Entitatea Link nu are un Scop clar și Responsabilități limpezi, atunci Politica la Cross Link trebuie să clarifice mai departe care e Rolul la Cross Link în Cercul Țintă.
 
 #### 2.7.2 MISIUNEA LA CROSS LINK
 
-Dacă Entitatea Link este un cerc sau un grup, poate desemna o persoană să împlinească Rolul de Cross Link folosind orice proces este folosit deja pentru a desemna oameni să împlinească Roluri Definite sau funcții de muncă similare.
+Dacă Entitatea Link este un Cerc sau un grup, poate desemna o persoană să împlinească Rolul de Cross Link folosind orice proces este folosit deja pentru a desemna oameni să împlinească Roluri Definite sau funcții de muncă asemănătoare.
 
 Dacă Entitatea Link reprezintă un grup fără un punct clar de autoritate care să finalizeze acea sarcină, atunci Cercul Țintă poate desemna pe cineva ca și Rol de Cross Link, cu excepția cazului în care se prevede altfel în Politica de Cross Link.
 
-În toate cazurile, doar o singură persoană poate fi desemnată pentru fiecare Rol de Cross Link, decât dacă nu e permis specific în Politica de Cross Link.
+În toate cazurile, doar o singură persoană poate fi desemnată pentru fiecare Rol de Cross Link, decât dacă nu e permis în mod specific în Politica de Cross Link.
 
-Oricând un Rol de Cross Link nu este ocupat, este considerat ca fiind ne-existent și nu are vreun mod implicit de desemnare sau consecință.
+Oricând un Rol de Cross Link nu este ocupat, este considerat ca fiind non-existent și nu are vreun mod implicit de desemnare sau consecință.
 
 #### 2.7.3 AUTORITATEA LA CROSS LINK
 
@@ -251,15 +251,15 @@ Oricum, dincolo de îndepărtarea limitărilor potențiale, un Cross Link nu poa
 
 #### 2.7.4 COMPLETĂRI LA ROLUL DE CROSS LINK
 
-O Entitate Link poate modifica un Rol de Cross Link prin Procesul de Guvernanță.
+O Entitate Link poate modifica un Rol de Cross Link prin propriul Proces de Guvernanță.
 
-Un Cerc Țintă poate adăuga Domenii și Responsabilități unui Rol De Cross Link prin Procesul de Guvernanță, iar ulterior poate modifica și exclude orice a adăugat.
+Un Cerc Țintă poate adăuga Domenii și Responsabilități unui Rol De Cross Link prin Procesul propriu de Guvernanță, iar ulterior poate modifica și exclude orice a adăugat.
 
 #### 2.7.5 LIMITE ȘI DELAGARE
 
 O Entitate Link invitată în Cercul Țintă poate avea un Rol ce aparține într-un alt Cerc. În acest caz, celălalt Cerc poate schimba Entitatea Link cu un alt Rol care consideră a fi mai potrivit, sau să delege selectarea Entității Link unuia din Sub-Cercurile sale.
 
-Cercul Țintă mai poate delega cerința de a primi o legătură cu unul din propriile Sub-Cercuri, caz în care acel Sub-Cerc va deveni Cercul Țintă pentru această legătura.
+Cercul Țintă mai poate delega cerința de a primi o legătură cu unul din propriile Sub-Cercuri, caz în care acel Sub-Cerc va deveni Cercul Țintă pentru această legătură.
 
 Indiferent de caz, orice delegare trebuie făcută printr-o Politică a Cercului care face delegarea. Mai mult, orice schimbare sau delegare trebuie să se alinieze cu alte constrângeri și ghidaje specificate în Politica de Cross Link care însoțea invitația de legătură inițială. 
 
@@ -275,7 +275,7 @@ Procesul de Guvernanță al Cercului are puterea să:
 
 În orice moment, rezultatele cele mai recente ale Procesului de Guvernanță ale Cercului definesc **_”Guvernanța”_** sa.
 
-Numai acele rezoluții enumerate în această secțiune sunt Guvernări valide pentru un Cerc. Nimeni nu poate include rezoluții ulterioare, în cadrul înregistrărilor din Guvernanța Cercului.
+Doar acele rezoluții enumerate în această secțiune sunt Guvernări valide pentru un Cerc ; nimeni nu poate include rezoluții ulterioare în cadrul înregistrărilor din Guvernanța Cercului.
 
 ### 3.2 SCHIMBAREA GUVERNĂRII
 
@@ -283,39 +283,39 @@ Orice Membru de Bază a unui Cerc poate propune schimbarea Guvernări acestuia, 
 
 Înainte ca o Propunere să fie adoptată, toți Membrii de Bază ai Cercului trebuie să aibă oportunitatea de a exprima Tensiuni legate de adoptarea Propunerii. Fiecare Tensiune astfel exprimată este considerată o **_”Obiecție”_** dacă îndeplinește criteriile definite în această secțiune, iar persoana care a exprimat-o devine **_”Contestator”_**.
 
-Propunerile sunt considerate adoptate și modifică Guvernanța Cercului doar dacă nici o Obiecție nu este exprimată. Dacă sunt Obiecții exprimate, Propunătorul și cu fiecare Contestator trebuie să găsească o modalitate de a rezolva Obiecția înainte ca Cercul să adopte Propunerea, după care toți Membrii de Bază ai Cercului trebuie să aibă încă o oportunitate de a ridica alte Obiecții înainte ca Propunerea să fie adoptată. 
+Propunerile sunt considerate adoptate și modifică Guvernanța Cercului doar dacă nici o obiecție nu este exprimată. Dacă sunt Obiecții exprimate, Propunătorul și cu fiecare Contestator trebuie să găsească o modalitate de a rezolva Obiecția înainte ca Cercul să adopte Propunerea, după care toți Membrii de Bază ai Cercului trebuie să aibă încă o oportunitate de a ridica alte Obiecții înainte ca Propunerea să fie adoptată. 
 
-#### 3.2.1 REALIZAREA UNEI PROPUNERI
+#### 3.2.1 REALIZAREA PROPUNERILOR
 
 Orice Membru de Bază al Cercului poate face o Propunere în cadrul **_”Întâlnirii de Guvernanță”_** a Cercului convocată sub termenii Secțiunii 3.3. Alternativ, un Membru de Bază al Cercului poate distribui asincron o Propunere către toți ceilalți membrii de Bază ai Cercului, în afara unei Întâlniri de Guvernanță, folosind orice canal de comunicare în scris care a fost aprobat în acest sens de către Secretarul Cercului.
 
-Când acest lucru se întâmplă, Facilitatorul poate aplica același proces și reguli folosite într-o Întâlnire de Guvernanță sau poate permite fiecărui Membru de Bază al Cercului să declare direct dacă are sau nu vreo Obiecție pe care vrea să o integreze. Mai mult, în orice moment înainte de adoptarea unei Propuneri asincrone, Facilitatorul sau oricare Membru de Bază al Cercului poate opri procesul asincron solicitându-i Propunătorului să escaladeze Propunerea la o Întâlnire de Guvernanță și să notifice Secretarul Cercului.
+Când acest lucru se întâmplă, Facilitatorul poate aplica același proces și reguli folosite într-o Întâlnire de Guvernanță sau poate permite fiecărui Membru de Bază al Cercului să declare direct dacă are sau nu vreo obiecție pe care vrea să o integreze. Mai mult, în orice moment înainte de adoptarea unei Propuneri asincrone, Facilitatorul sau oricare Membru de Bază al Cercului poate opri procesul asincron solicitându-i Propunătorului să escaladeze Propunerea la o Întâlnire de Guvernanță și să notifice Secretarul Cercului.
 
-Un Cerc poate adopta Politici care să delimiteze clar când sau cum o Propunere poate fi făcută sau procesată în afara unei Întâlniri de Guvernanță. Oricum, nici o Politică nu poate limita dreptul de a stopa procesului asincron și a-l escalada la o Întâlnire de Guvernanță. Un Cerc poate utiliza o Politică care să creeze o limită de timp pentru primirea răspunsurile unei Propuneri asincrone, după care orice Propunere asincronă să fie automat adoptată dacă nici o Obiecție sau cere de escaladare nu a fost adusă.
+Un Cerc poate adopta Politici care să delimiteze clar când sau cum o Propunere poate fi făcută sau procesată în afara unei Întâlniri de Guvernanță. Oricum, nici o Politică nu poate limita dreptul de a înceta procesului asincron și a-l escalada la o Întâlnire de Guvernanță. Un Cerc poate utiliza o Politică care să creeze o limită de timp pentru primirea răspunsurile unei Propuneri asincrone, după care orice Propunere asincronă să fie automat adoptată dacă nici o Obiecție sau cerere de escaladare nu a fost adusă.
 
 #### 3.2.2 CRITERII PENTRU O PROPUNERE VALIDĂ
 
 Unele Propuneri pot fi blocate în cadrul unui Proces de Guvernanță a Cercului, iar Facilitatorul le poate respinge înainte de a fi cu totul procesate.
 
 Pentru a fi valide spre procesare, o Propunere trebuie să rezolve sau să reducă o Tensiune exprimată de către Propunător. 
-În plus, o Propunere trebuie în mod normal să ajute Propunătorul să își împlinească mai bine Scopul sau o Responsabilitate a unuia din Rolurile pe care acesta le are în cadrul Cercului. Oricum, o Propunere poate să ajute și un alt Membru al Cercului să împlinească mai bine unul din Rolurile acestuia în Cerc, dar doar dacă acea persoană a oferite Propunătorului permisiunea să îi reprezinte Rolul.
+În plus, o Propunere trebuie în mod normal să ajute Propunătorul să își împlinească mai bine Scopul sau o Responsabilitate a unuia din Rolurile pe care acesta le are în cadrul Cercului. Oricum, o Propunere poate să ajute în mod alternativ și un alt Membru al Cercului să împlinească mai bine unul din Rolurile acestuia în Cerc, dar doar dacă acea persoană a oferit Propunătorului permisiunea de a-i reprezinta Rolul.
 
-În final, o propunere este întotdeauna valabilă indiferent de criteriile de mai sus în cazul în care este făcută numai pentru a ajuta evoluția Guvernării Cercului de a exprima mai clar ceea ce deja se întâmplă sau de a declanșa alegeri pentru oricare Rol Ales.
+În final, o propunere este întotdeauna valabilă indiferent de criteriile de mai sus în cazul în care este făcută doar pentru a ajuta evoluția Guvernării Cercului de a exprima mai clar ceea ce deja se întâmplă sau de a declanșa alegeri pentru oricare Rol Ales.
 
 #### 3.2.3 TESTAREA PROPUNERILOR
 
-Facilitatorul poate testa validitatea unei Propuneri punând întrebări Propunătorului. Pentru ca o Propunere să supraviețuiască testului, Propunătorul trebuie să fie în măsură să descrie Tensiunea, și să dea un exemplu real din trecutul sau prezentul apropiat în care Propunerea ar fi redus acea Tensiune și a ajutat Cercul într-una dintre modalitățile permise de secțiunea anterioară. Facilitatorul trebuie să renunțe la Propunerea în cazul în care consideră că Propunătorul nu a îndeplinit această cerință.
+Facilitatorul poate testa validitatea unei Propuneri punând întrebări Propunătorului. Pentru ca o Propunere să supraviețuiască testului, Propunătorul trebuie să fie în măsură să descrie Tensiunea și să ofere un exemplu real din trecutul sau prezentul apropiat în care Propunerea ar fi redus acea Tensiune și a ajutat Cercul într-una dintre modalitățile permise de secțiunea anterioară. Facilitatorul trebuie să renunțe la Propunere în cazul în care consideră că Propunătorul nu a îndeplinit aceasta cerinţă.
 
-Totuși, atunci când se evaluează validitatea unei Propuneri, Facilitatorul poate judeca numai dacă Propunătorul a prezentat exemplul cerut și explicații necesare, și dacă acestea au fost prezentate cu un raționament logic și sunt astfel rezonabile. Facilitatorul nu poate lua o hotărâre în ce privește acuratețea acestora, și nici dacă Propunerea ar rezolva în mod corespunzător Tensiunea.
+Totuși, atunci când se evaluează validitatea unei Propuneri, Facilitatorul poate judeca numai dacă Propunătorul a prezentat exemplul cerut și explicații necesare și dacă acestea au fost prezentate cu un raționament logic și sunt astfel rezonabile. Facilitatorul nu poate lua o hotărâre în ceea ce privește acuratețea acestora și nici dacă Propunerea ar rezolva în mod corespunzător Tensiunea.
 
 #### 3.2.4 CRITERII PENTRU OBIECȚII VALIDE
 
-Unele Tensiuni nu sunt considerate Obiecții, și pot fi ignorate în timpul prelucrării unei Propuneri. O Tensiune contează ca Obiecție doar în cazul în care îndeplinește **toate** criteriile definite la literele (a) până la (d) de mai jos sau criteriul special definit în (e):
+Unele Tensiuni nu sunt considerate Obiecții și pot fi ignorate în timpul prelucrării unei Propuneri. O Tensiune contează ca şi Obiecție doar în cazul în care îndeplinește **toate** criteriile definite la literele (a) până la (d) de mai jos sau criteriul special definit în (e):
 
-- **(a)** Dacă Tensiunea a fost nesoluționată, atunci capacitatea Cercului de a-și exprima Scopul sau a-și împlini Responsabilitățile sale s-ar degrada. Astfel, Tensiune nu este doar declanșată de o idee mai bună sau de un potențial suplimentar de îmbunătățire, ci pentru că Propunerea ar da de fapt Cercul înapoi din starea sa actuală. Sensul acestui criteriu ne indică că scăderea clarității înseamnă degradarea capacității, deși doar faptul că nu îmbunătățește claritatea nu îl și exclude.
-- **(b)** Tensiunea nu există deja pentru Cerc, chiar și în absența Propunerii. Astfel, Tensiunea se va crea tocmai prin adoptarea Propunerii, și nu ar exista dacă Propunerea ar fi retrasă.
-- **(c)** Tensiunea este declanșată doar prin fapte sau evenimente cunoscute în prezent, fără a ține cont de vreo predicție la ceea ce s-ar putea întâmpla în viitor. Cu toate acestea, susținerea unei previziuni este permisă atunci când nu se prezintă nici o ocazie de a experimenta și răspunde în mod adecvat în viitor, înainte ca un impact semnificativ să fie generat.
-- **(d)** Tensiunea limitează capacitatea Contestatarului de a-și exprima Scopul sau o Responsabilitate a unuia din Rolurile sale din Cerc; sau, în cazul în care limitează un alt Rol, Contestatarul are permisiunea de a reprezenta acest Rolul unui Membru de Bază a Cercului care în mod normal, împlinește acest rol.
+- **(a)** Dacă Tensiunea a fost nesoluționată, atunci capacitatea Cercului de a-și exprima Scopul sau a-și împlini Responsabilitățile sale s-ar degrada. Astfel, Tensiunea nu este doar declanșată de o idee mai bună sau de un potențial suplimentar de îmbunătățire, ci pentru că Propunerea ar muta de fapt Cercul înapoi in starea sa actuală. In sensul acestui criteriu, reducerea clarității se consideră ca fiind o capacitate degradantă, chiar dacă neîmbunătăţirea clarităţii nu este văzută la fel.
+- **(b)** Tensiunea nu există deja pentru Cerc, chiar și în absența Propunerii. Astfel, Tensiunea se va crea întocmai prin adoptarea Propunerii și nu ar exista dacă Propunerea ar fi retrasă.
+- **(c)** Tensiunea este declanșată doar prin fapte sau evenimente cunoscute în prezent, fără a ține cont de vreo predicție asupra lucrurilor care s-ar putea întâmpla în viitor. Cu toate acestea, susținerea unei previziuni este permisă atunci când nu se prezintă nici o ocazie de a experimenta și răspunde în mod adecvat în viitor, înainte ca un impact semnificativ să fie generat.
+- **(d)** Tensiunea limitează capacitatea Contestatarului de a-și exprima Scopul sau o Responsabilitate a unuia din Rolurile sale din Cerc; sau în cazul în care limitează un alt Rol, Contestatarul are permisiunea de a reprezenta acest Rolul unui Membru de Bază a Cercului care în mod normal, împlinește acest rol.
 
 Cu toate acestea, indiferent de criteriile de mai sus, o Tensiune cu privire la adoptarea unei Propuneri contează întotdeauna ca Obiecție în cazul în care:
 
