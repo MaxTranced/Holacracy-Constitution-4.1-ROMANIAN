@@ -163,7 +163,7 @@ Când împlinești un Rol, poți renunța la acesta în orice moment, cu excepț
 
 Fiecare Cerc include un **_”Rol de Facilitator”_**, un **_”Rol de Secretar”_**, si un **_”Rol de Rep Link”_** după definițiile oferite in Anexa A. Acestea sunt **_”Rolurile Votate”_** ale Cercului, iar persoanele care împlinesc aceste roluri devin **_”Facilitatorul”_**, **_”Secretarul”_** sau **_”Rep Link-ul”_** Cercului.
 
-#### 2.5.1 ALEGERI ȘI ELIGIBILITATE PAUUUZA
+#### 2.5.1 ALEGERI ȘI ELIGIBILITATE 
 
 Facilitatorul fiecărui Cerc va înlesni alegerile regulate în vederea alegerii unui Membru de Baza a Cercului în fiecare din Rolurile Votate, folosind procesul și regulile definite în Articolul III.
 
@@ -323,23 +323,23 @@ Cu toate acestea, indiferent de criteriile de mai sus, o Tensiune cu privire la 
 
 #### 3.2.5 TESTAREA OBIECȚIILOR
 
-Facilitatorul poate testa validitatea unui Obiecții prin adresarea de întrebări Contestatarului. Pentru ca o Obiecție să supraviețuiască testului, Contestatarul trebuie să fie în măsură să prezinte un argument rezonabil pentru motivul pentru care îndeplinește fiecare criteriu specific necesar unei Obiecții. Facilitatorul trebuie să elimine o Obiecție în cazul în care consideră că Contestatarul nu a îndeplinit acest prag.
+Facilitatorul poate testa validitatea unei Obiecții prin adresarea de întrebări Contestatarului. Pentru ca o Obiecție să supraviețuiască testului, Contestatarul trebuie să fie în măsură să prezinte un argument rezonabil pentru motivul pentru care îndeplinește fiecare criteriu specific necesar unei Obiecții. Facilitatorul trebuie să elimine o Obiecție în cazul în care consideră că Contestatarul nu a îndeplinit aceasta cerinţă.
 
-Atunci când se evaluează validitatea unei Obiecții, Facilitatorul poate judeca numai dacă Contestatarul a prezentat argumentele necesare, și dacă acestea au fost prezentate ca un raționament logic și sunt, prin urmare, rezonabile.
+Atunci când se evaluează validitatea unei Obiecții, Facilitatorul poate judeca numai dacă Contestatarul a prezentat argumentele necesare și dacă acestea au fost prezentate ca un raționament logic și sunt, prin urmare, rezonabile.
 Facilitatorul nu poate lua o hotărâre în ce privește acuratețea sau importanța acestor argumente.
 
 Cu toate acestea, în cazul în care o Obiecție este adusă cu argumentul că Propunerea făcută va încălca Constituția, conform secțiunii 3.2.4 (e), Facilitatorul poate solicita Secretarului Cercului să interpreteze dacă Propunerea făcută într-adevăr încalcă Constituția. În cazul în care Secretarul decide că nu, Facilitatorul trebuie să elimine Obiecția. 
 
 #### 3.2.6 REGULI DE INTEGRARE
 
-Atunci când se ridică o Obiecție la o Propunere, următoarele reguli suplimentare se aplică în timpul căutării unei rezoluții:
+Atunci când se ridică o Obiecție la o Propunere, următoarele reguli suplimentare se aplică în timpul căutării unei rezolvări:
 
-- **(a)** Facilitatorul trebuie să testeze o Obiecție dacă este solicitată de către orice Membru de Bază al Cercului, și să o elimine în cazul în care acesta nu îndeplinește criteriile de validitate descrise în aceasta secțiune.
-- **(b)** Contestatorul trebuie să încerce să aducă modificări la Propunere care să îi rezolve Obiecția adusă, dar care în continuare să răspundă la Tensiunea Propunătorului. Alții pot ajuta. În cazul în care Facilitatorul ajunge la concluzia că Contestatarul nu face deloc vreun efort de bună credință pentru a găsi o modificare, atunci trebuie să considere Obiecțiunea abandonată și se continue prelucrarea Propunerii ca și când Obiecțiunea nici nu a fost ridicată.
+- **(a)** Facilitatorul trebuie să testeze o Obiecție dacă este solicitată de către orice Membru de Bază al Cercului și să o elimine în cazul în care acesta nu îndeplinește criteriile de validitate descrise în aceasta Secțiune.
+- **(b)** Contestatorul trebuie să încerce să aducă o modificare la Propunere, modificare ce poate să îi rezolve Obiecția adusă, dar care în continuare să răspundă la Tensiunea Propunătorului. Alții pot ajuta. În cazul în care Facilitatorul ajunge la concluzia că Contestatarul nu face deloc vreun efort de bună credință pentru a găsi o modificare, atunci trebuie să considere Obiecțiunea abandonată și se continue prelucrarea Propunerii ca și când Obiecțiunea nici nu a fost ridicată.
 - **(c)** Orice Membru de Bază a Cercului poate adresa întrebări clarificatoare Propunătorului privind Tensiunea din spatele Propunerii, sau despre orice exemple pe care Propunătorul le-a oferit pentru a ilustra Tensiunea. În cazul în care Facilitatorul ajunge la concluzia că Propunătorul nu face deloc un efort de bună credință pentru a răspunde acestor întrebări, atunci trebuie să considere Propunerea nevalidă pentru prelucrare și să o abandoneze.
-- **(d)** Contestatorul poate sugera o Propunere modificată, și să ofere argumente rezonabile pentru cum aceasta ar trebui să rezolve sau să prevină Tensiunea în fiecare situație specificată de Propunător pentru a ilustra Tensiunea. Apoi, după sugestia Contestatorului, Propunătorul trebuie să prezinte un argument rezonabil de ce Propunerea modificată nu ar reuși să rezolve sau să prevină Tensiunea în cel puțin o situație specificată deja. În plus, Propunătorul poate descrie un exemplu suplimentar în care Propunerea modificată nu s-ar aplica, dar care totuși îndeplinește în continuare criteriile de prelucrare a unei Propuneri precum e cerut în secțiunea 3.2.2. În cazul în care Facilitatorul ajunge la concluzia că Propunătorul nu a îndeplinit una dintre aceste cerințe, Facilitatorul trebuie să considere propunerea nevalidă pentru procesare și să o abandoneze.
+- **(d)** Contestatorul poate sugera o Propunere modificată, și să ofere argumente rezonabile pentru cum aceasta ar trebui să rezolve sau să prevină Tensiunea în fiecare situație specificată de Propunător pentru a ilustra Tensiunea. Apoi, după sugestia Contestatorului, Propunătorul trebuie să prezinte un argument rezonabil de ce Propunerea modificată nu ar reuși să rezolve sau să prevină Tensiunea în cel puțin o situație specificată deja. În plus, Propunătorul poate descrie un exemplu suplimentar în care Propunerea modificată nu s-ar aplica, dar care totuși îndeplinește în continuare criteriile de prelucrare a unei Propuneri, precum este aceasta cerută în secțiunea 3.2.2. În cazul în care Facilitatorul ajunge la concluzia că Propunătorul nu a îndeplinit una dintre aceste cerințe, Facilitatorul trebuie să considere propunerea nevalidă pentru procesare și să o abandoneze.
 
-### 3.3 ÎNT LNIRI DE GUVERNANȚĂ
+### 3.3 ÎNTÂLNIRI DE GUVERNANȚĂ
 
 Secretarul unui Cerc este responsabil pentru programarea Întâlnirilor de Guvernanță menite să adopte Procesul de Guvernanță a Cercului.
 
