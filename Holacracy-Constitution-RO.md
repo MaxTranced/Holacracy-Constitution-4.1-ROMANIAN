@@ -287,7 +287,7 @@ Propunerile sunt considerate adoptate și modifică Guvernanța Cercului doar da
 
 #### 3.2.1 REALIZAREA PROPUNERILOR
 
-Orice Membru de Bază al Cercului poate face o Propunere în cadrul **_”Întâlnirii de Guvernanță”_** a Cercului convocată sub termenii Secțiunii 3.3. Alternativ, un Membru de Bază al Cercului poate distribui asincron o Propunere către toți ceilalți membrii de Bază ai Cercului, în afara unei Întâlniri de Guvernanță, folosind orice canal de comunicare în scris care a fost aprobat în acest sens de către Secretarul Cercului.
+Orice Membru de Bază al Cercului poate face o Propunere în cadrul **_”Întâlnirii de Guvernanță”_** a Cercului convocată sub termenii Secțiunii 3.3. Alternativ, un Membru de Bază al Cercului poate distribui în mod asincron o Propunere către toți ceilalți membrii de Bază ai Cercului, în afara unei Întâlniri de Guvernanță, folosind orice canal de comunicare în scris care a fost aprobat în acest sens de către Secretarul Cercului.
 
 Când acest lucru se întâmplă, Facilitatorul poate aplica același proces și reguli folosite într-o Întâlnire de Guvernanță sau poate permite fiecărui Membru de Bază al Cercului să declare direct dacă are sau nu vreo obiecție pe care vrea să o integreze. Mai mult, în orice moment înainte de adoptarea unei Propuneri asincrone, Facilitatorul sau oricare Membru de Bază al Cercului poate opri procesul asincron solicitându-i Propunătorului să escaladeze Propunerea la o Întâlnire de Guvernanță și să notifice Secretarul Cercului.
 
@@ -422,9 +422,9 @@ Secretarul unui Cerc poate respinge o interpretare dată de un Secretar care fac
 
 #### 3.4.3 INTERPRETĂRILE DEVIN STANDARDE
 
-După ce agreează asupra unei interpretări, un Secretar poate alege să publice această interpretarea și logica din spatele ei în registrele de Guvernanță ale Cercului. În cazul în care s-a publicat, Secretarul Cercului și Secretarii din oricare alte Cercuri conținute sunt responsabili pentru încercarea de a alinia orice viitoare hotărâri în spiritul logicii și interpretării publicate anterior.
+După ce se hotărăsc asupra unei interpretări, un Secretar poate alege să publice această interpretarea și logica din spatele ei în registrele de Guvernanță ale Cercului. În cazul în care s-a publicat, Secretarul Cercului și Secretarii din oricare alte Cercuri conținute sunt responsabili pentru încercarea de a alinia orice viitoare hotărâri în spiritul logicii și interpretării publicate anterior.
 
-Un Secretar poate contrazice logica sau interpretarea publicată anterior, doar dacă un nou argument convingător sau o altă circumstanță susține o inversare. O dată ce există o contrazicere cu aceasta, noua logică și interpretare va deveni noul standard după care toate hotărârile viitoare trebuie să se alinieze.
+Un Secretar poate contrazice logica sau interpretarea publicată anterior doar dacă un nou argument convingător sau o altă circumstanță susține o inversare. O dată ce există o contrazicere cu aceasta, noua logică și interpretare va deveni noul standard după care toate hotărârile viitoare trebuie să se alinieze.
 
 #### 3.4.4 BOICOTAREA GUVERNANȚEI NEVALIDE
 
@@ -447,16 +447,16 @@ Facilitatorul unui Cerc poate declara un Proces Avariat într-unul dintre Sub-Ce
 Ori de câte ori o parte autorizată declară un Proces Avariat într-un Cerc, se întâmplă următoarele:
 
 - **(a)** Facilitatorul Super-Cercului își asumă un proiect pentru a restabili procesul scadent în cadrul cercului; și
-- **(b)** Facilitatorul Super-Cercului va avea autoritatea de a prelua Rolul de Facilitator sau Secretar al Cercului, sau de a numi pe altcineva să facă acest lucru; și
+- **(b)** Facilitatorul Super-Cercului va avea autoritatea de a prelua Rolul de Facilitator sau Secretar al Cercului sau de a numi pe altcineva să facă acest lucru; și
 - **(c)** Facilitatorul Cercului va avea autoritatea de a judeca exactitatea oricărui argument prezentat pentru a valida o Tensiuni sau Obiecții în conformitate cu Procesul de Guvernanță al cercului.
 
-Aceste autorități sunt temporare și încetează de îndată ce Facilitatorului Super-Cercului ajunge la concluzia că proces scadent a fost restabilit în interiorul Cercului.
+Aceste autorități sunt temporare și încetează de îndată ce Facilitatorului Super-Cercului ajunge la concluzia că procesul scadent a fost restabilit în interiorul Cercului.
 
 #### 3.5.4 ESCALADAREA UNUI PROCES AVARIAT
 
-Un Proces Avariat al unui Cerc nu poate fi considerat ca Proces Avariat de către Super-Cercul său, atâta timp cât Facilitatorul Super-Cercului lucrează spre a rezolva Procesul Avariat cu promptitudine și cu diligență.
+Un Proces Avariat al unui Cerc nu poate fi considerat ca Proces Avariat de către Super-Cercul său, atâta timp cât Facilitatorul Super-Cercului lucrează pentru a rezolva Procesul Avariat cu promptitudine și cu sârguinţă.
 
-Cu toate acestea, în cazul în care Procesul Avariat nu este rezolvat într-un termen rezonabil, atunci Facilitatorului oricărui Super-Cerc, care conține Cercul în cauză poate declara un Proces Avariat în cadrul Super-Cercului.
+Cu toate acestea, în cazul în care Procesul Avariat nu este rezolvat într-un termen de timp rezonabil, atunci Facilitatorului oricărui Super-Cerc care conține Cercul în cauză poate declara un Proces Avariat în cadrul Super-Cercului.
 
 ## ARTICOLUL IV: PROCESUL OPERAȚIONAL
 
