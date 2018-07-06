@@ -497,9 +497,9 @@ Ca un Lead Link, Rep Link, sau Cross Link într-un cerc, poţi invita o altă pe
 
 Toate responsabilitățile și constrângerile ca Partener al Organizației sunt definite în prezenta Constituție, precum și în Guvernanța rezultată din aceasta. Nici o fostă sau actuală așteptare sau alte constrângeri implicite nu dețin vreo autoritate sau au vreo valoare, cu excepția cazului în care Guvernanța unui Cerc le autorizează în mod explicit sau când provin dintr-o obligație de bază sau un acord contractual pe care îl ai tu personal cu organizația.
 
-### 4.2 INT LNIRILE TACTICE
+### 4.2 INTÂLNIRILE TACTICE
 
-Secretarul unui Cerc este responsabil pentru programarea regulată a **_"Întâlnirilor tactice"_**, pentru a facilita operațiunile cercului. Facilitatorul este responsabil pentru a prezida Întâlnirile Tactice în aliniere cu următoarele reguli și orice Politici relevante ale Cercului.
+Secretarul unui Cerc este responsabil pentru programarea regulată a **_"Întâlnirilor tactice"_**, pentru a uşura operațiunile cercului. Facilitatorul este responsabil cu prezidarea Întâlnirilor Tactice în aliniere cu următoarele reguli și orice Politici relevante ale Cercului.
 
 #### 4.2.1 FOCUS ȘI INTENȚIE
 
@@ -512,13 +512,13 @@ Secretarul unui Cerc este responsabil pentru programarea regulată a **_"Întâl
 
 #### 4.2.2 PREZENȚA
 
-Toți Membrii de Bază ai Cercului și oricine altcineva care în mod normal este invitat să participe în Ședințele de Guvernanță ale Cercului sunt, de asemenea, invitați să participe la Întâlnirile Tactice, cu excepția cazului în care o Politică spune altfel. Nu există nici o aducere aminte sau cvorum minim necesar pentru o Întâlnire Tactică, cu excepția cazului în care o politică spune altceva.
+Toți Membrii de Bază ai Cercului și oricine altcineva care în mod normal este invitat să participe în Ședințele de Guvernanță ale Cercului sunt, de asemenea, invitați să participe la Întâlnirile Tactice, cu excepția cazului în care o Politică spune altfel. Nu există nicio aducere aminte sau vreun cvorum minim necesar pentru o Întâlnire Tactică, cu excepția cazului în care o Politică spune altceva.
 
 #### 4.2.3 FACILITAREA ȘI PROCESUL
 
-Facilitatorul trebuie să utilizeze în mod normal următorul proces pentru Întâlnirile Tactice:
+Facilitatorul trebuie să folosească în mod normal următorul proces pentru Întâlnirile Tactice:
 
-- **(a) Runda de Check-in:** Facilitatorul permite pe rând fiecărui participant să împărtășească starea lor actuală sau ce gânduri au, sau să ofere un tip de comentariu la început de Întâlnire. Replicile nu sunt permise.
+- **(a) Runda de Check-in:** Facilitatorul permite pe rând fiecărui participant să împărtășească starea lui actuală sau ce gânduri are sau să ofere un tip de comentariu la început de Întâlnire. Replicile nu sunt permise.
 - **(b) Revizuire Check-list:** Facilitatorul cere fiecărui participant să verifice finalizarea oricăror acțiuni recurente de pe propriul lor Check-list.
 - **(c) Revizuirea Măsurătorilor:** Facilitatorul cere fiecărui participant să anunțe valorile la Măsurătorile atribuite participantului respectiv de Lead Link sau de oricare alt Rol sau proces care definește Măsurătorile Cercului.
 - **(d) Actualizarea Progresului:** Facilitatorul cere fiecărui participant să sublinieze progresele înregistrate în vederea realizării oricărui Proiect sau a oricărei responsabilități din oricare dintre Rolurile sale din Cerc. Participanții pot menționa numai progresele realizate de la ultimul raport dat, și nu starea generală a unui proiect sau responsabilități. Fiecare participant poate decide ce proiecte sau responsabilitate merită spre a fi raportate, cu toate acestea, dacă un alt Membru al Cercului a solicitat în mod explicit actualizări privind un anumit proiect, acesta trebuie să fie inclus în raportare până când este fie finalizat, fie abandonat. Pentru actualizări de progres cu privire la un proiect sau responsabilitate a unui Sub-Cerc, Facilitatorul trebuie să permită atât Lead Link-ului cât și Rep Link din Sub-Cerc să aibă posibilitatea de a împărtăși propriile actualizări.
