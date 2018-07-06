@@ -475,7 +475,7 @@ Ai obligația de a oferi transparență atunci când este solicitată de către 
 
 #### 4.1.2 OBLIGAȚIA DE PROCESARE
 
-Ai datoria de a procesa cu promptitudine mesaje și solicitări din partea colegilor din Cerc, după cum urmează:
+Ai datoria de a procesa cu promptitudine mesaje și solicitări venite din partea colegilor din Cerc, după cum urmează:
 
 - **(a) Cererile de procesare:** Un Membru al Cercului poate să îți ceară să efectuezi orice responsabilitate sau proiect specific Rolului pe care îl ai în Cerc. Dacă nu ai nicio Acțiune Următoare stabilită pentru aceasta, atunci trebuie să identifici și să efectuezi o Acțiune Următoare în cazul în care există una rezonabilă pe care o poţi lua. În cazul în care nu există, trebuie să exprimi ce așteptare ai. Aceasta poate fi o Acțiune Următoare sau un Proiect urmărit de către un alt Rol sau un eveniment sau condiție care trebuie să aibă loc înainte de a putea lua o Acțiune Următoare.
 - **(b) Cererea de Proiecte și Acțiuni Următoare:** Alți Membri ai Cercului îți pot solicita să faci o anumită Acțiune Următoare sau Proiect din unul dintre rolurile voastre din Cerc. Dacă consideri a fi o Acțiune Următoare sau Proiect rezonabil, atunci trebuie să-l accepți și să-l finalizezi. Dacă nu este ceva rezonabil, atunci trebuie să explici raționamentul tău pentru refuz sau să comunici un alt Proiect sau Acțiune Următoare care credezi că va îndeplini Obiectivul solicitantului.
