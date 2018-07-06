@@ -2,7 +2,7 @@
 
 ### PREAMBUL
 
-Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și pentru operaţiunile unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva este de acord să facă parte din Guvernanță și din operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție şi de asemenea, pot să se fie de acord cu îndatoririle și constrângerile acesteia. 
+Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și pentru operaţiunile unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva este de acord să facă parte din Guvernanță și din operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile conferite de către această Constituție şi de asemenea, pot să se fie de acord cu îndatoririle și constrângerile acesteia. 
 
 ## ARTICOLUL I: ROLURI ENERGIZANTE
 
@@ -20,18 +20,18 @@ Ca și Partener al Organizației, ai următoarele responsabilități pentru fiec
 
 #### 1.2.1 PROCESAREA TENSIUNILOR
 
-Ești responsabil de monitorizarea felului în care Scopul și Responsabilitățile Rolului tău sunt clar definite, eşti responsabil să le compari cu propria ta viziune în care se pot manifesta ideal- în ceea ce le priveşte, eşti responsabil să identifici diferențele dintre realitatea prezentă și potenţialul pe care îl simţi (fiecare diferență este o **_”Tensiune”_**). De asemenea, ești responsabil să încerci să rezolvi aceste Tensiuni, folosindu-te de autoritățile și de alte mecanisme care îţi sunt disponibile în temeiul aceastei Constituții. 
+Ești responsabil de monitorizarea felului în care Scopul și Responsabilitățile Rolului tău sunt clar definite, eşti responsabil să le compari cu propria ta viziune în care se pot manifesta ideal în ceea ce le priveşte, eşti responsabil să identifici diferențele dintre realitatea prezentă și potenţialul pe care îl simţi (fiecare diferență este o **_”Tensiune”_**). De asemenea, ești responsabil să încerci să rezolvi aceste Tensiuni, folosindu-te de autoritățile și de alte mecanisme care îţi sunt disponibile în temeiul aceastei Constituții. 
 
 #### 1.2.2 SCOPUL PRELUCRĂRII ŞI RESPONSABILITĂŢI
 
 Ești responsabil să cântăreşti în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
 
 - **(a)** **_"Acțiunile Următoare"_**, care sunt acțiuni pe care le poți executa imediat și care sunt utile a fi executate imediat, cel puțin în absența unor priorități concurente; și 
-- **(b)** **_"Proiecte"_**, care sunt rezultate specifice care au nevoie de realizarea a mai multor acțiuni secvențiale și care sunt utile a fi realizate, cel puțin în lipsa unor priorități concurente. 
+- **(b)** **_"Proiecte"_**, care sunt rezultate specifice care au nevoie de realizarea mai multor acțiuni secvențiale și care sunt utile a fi realizate, cel puțin în lipsa unor priorități concurente. 
 
 #### 1.2.3 PROCESAREA PROIECTELOR
 
-Ești responsabil să gândeşti în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare pentru a duce proiectul mai departe.PAUZA
+Ești responsabil să gândeşti în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare pentru a duce proiectul mai departe.
 
 #### 1.2.4 URMĂRIREA PROIECTELOR, A ACȚIUNILOR URMĂTOARE ȘI A TENSIUNILOR
 
