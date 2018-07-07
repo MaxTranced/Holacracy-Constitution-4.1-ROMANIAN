@@ -495,7 +495,7 @@ Ca un Lead Link, Rep Link, sau Cross Link într-un cerc, poţi invita o altă pe
 
 #### 4.1.5 AȘTEPTĂRILE IMPLICITE NU AU NICI O VALOARE
 
-Toate responsabilitățile și constrângerile ca Partener al Organizației sunt definite în prezenta Constituție, precum și în Guvernanța rezultată din aceasta. Nici o fostă sau actuală așteptare sau alte constrângeri implicite nu dețin vreo autoritate sau au vreo valoare, cu excepția cazului în care Guvernanța unui Cerc le autorizează în mod explicit sau când provin dintr-o obligație de bază sau un acord contractual pe care îl ai tu personal cu organizația.
+Toate responsabilitățile și constrângerile ca Partener al Organizației sunt definite în prezenta Constituție, precum și în Guvernanța rezultată din aceasta. Nici o fostă sau actuală așteptare sau alte constrângeri implicite nu dețin vreo autoritate, nici nu au vreo valoare, cu excepția cazului în care Guvernanța unui Cerc le autorizează în mod explicit sau când provin dintr-o obligație de bază sau un acord contractual pe care îl ai tu personal cu organizația.
 
 ### 4.2 INTÂLNIRILE TACTICE
 
@@ -505,7 +505,7 @@ Secretarul unui Cerc este responsabil pentru programarea regulată a **_"Întâl
 
 Întâlnirile Tactice sunt pentru:
 
-- **(a)** schimbul de informații cu privire la stadiul de finalizare a acțiunilor recurente de pe listele deținute de Rolurile Cercului;
+- **(a)** schimbul de informații cu privire la stadiul de finalizare al acțiunilor recurente de pe listele deținute de Rolurile Cercului;
 - **(b)** schimbul de informații cu privire la Măsurătorile regulate atribuite Rolurilor Cercului spre a fi raportate;
 - **(c)** actualizări cu privire la progresul Proiectelor și a altor sarcini aflate în responsabilitatea Rolurilor Cercului; și
 - **(d)** triajul Tensiunilor care limitează Rolurile cercului în Acțiunile lor Următoare, a Proiectelor sau a altor rezoluții care ajută la reducerea acestor Tensiuni.
@@ -533,66 +533,66 @@ Un Cerc poate adopta o Politică prin care poate adăuga sau modifica acest proc
 
 ### 4.3 ACȚIUNE INDIVIDUALĂ
 
-Ca Partener al Organizației, în unele cazuri ești autorizat să acționezi în afara autorității Rolurilor dumneavoastră, sau chiar să încalci regulile din această Constituție. Acționând în această autoritate extinsă vă asumași așa zisa **_"Acțiune Individuală"_**, și sunteți obligat să urmați următoarele reguli:
+Ca Partener al Organizației, în unele cazuri ești autorizat să acționezi în afara autorității Rolurilor dumneavoastră sau chiar să încalci regulile din această Constituție. Acționând în această autoritate extinsă vă asumaţi așa-zisa **_"Acțiune Individuală"_** și sunteți obligat să urmați următoarele reguli:
 
 #### 4.3.1 SITUAȚII PERMISE
 
-Puteți lua o Acțiune Individuală numai atunci când toate caracteristicile următoare sunt adevărate:
+Poţi lua o Acțiune Individuală numai atunci când toate caracteristicile următoare sunt adevărate:
 
-- **(a)** Acționezi cu bună-credință pentru a servi scopul sau a exprima Responsabilitatea unui anumit Rol din cadrul Organizației, sau la nivelul întregii Organizații.
-- **(b)** Crezi în mod rezonabil că acțiunea dvs. ar rezolva sau preveni o Tensiune mai mare pentru organizația decât s-ar crea în mod normal.
-- **(c)** Acțiunea dvs. nu ar cauza, ar angaja sau ar permite cheltuieli sau ar folosi resursele organizației sau a altor active, dincolo de ceea ce sunteți deja autorizat să folosiți.
-- **(d)** În cazul în care acțiunea dvs. ar încălca vreun domeniu sau politică existentă, aveți în mod rezonabil credința că nu se poate întârzia acțiunea suficient de mult pentru a solicita permisiunile necesare sau să propuneți o schimbare în Guvernanță care să vă permită acțiunea dvs., fără a pierde o mare parte din valoarea sa potențială.
+- **(a)** Acționezi cu bună-credință pentru a servi scopul sau pentru a exprima Responsabilitatea unui anumit Rol din cadrul Organizației sau la nivelul întregii Organizații.
+- **(b)** Crezi în mod rezonabil că acțiunea ta ar rezolva sau ar preveni o Tensiune mai mare pentru Organizație decât s-ar crea în mod normal.
+- **(c)** Acțiunea ta nu ar cauza, nu ar angaja sau nu ar permite cheltuieli sau nu ar folosi resursele Organizației sau ale altor active, dincolo de ceea ce eşti deja autorizat să foloseşti.
+- **(d)** În cazul în care acțiunea ta ar încălca vreun domeniu sau vreo politică existentă, ai în mod rezonabil credința că nu se poate întârzia acțiunea suficient de mult pentru a solicita permisiunile necesare sau să propui o schimbare în Guvernanță care să permită acțiunea ta, fără a pierde o mare parte din valoarea sa potențială.
 
 #### 4.3.2 COMUNICARE ȘI RESTAURARE
 
-Odată cu luarea unei Acțiuni Individuale, aveți datoria de a explica acțiunea dumneavoastră și intenția din spatele acesteia oricărui Partener care împlinește un Rol care ar putea fi semnificativ afectat de ce ați făcut. La cererea oricăruia dintre acești Parteneri, aveți, de asemenea, obligația de a lua orice măsuri suplimentare rezonabile pentru a ajuta la rezolvarea oricărei Tensiuni create de Acțiunea dvs. Individuală.
+Odată cu luarea unei Acțiuni Individuale, ai datoria de a explica acțiunea ta și intenția din spatele acesteia oricărui Partener care împlinește un Rol care ar putea fi semnificativ afectat de ce ai făcut. La cererea oricăruia dintre acești Parteneri, ai, de asemenea, obligația de a lua orice măsuri suplimentare rezonabile pentru a ajuta la rezolvarea oricărei Tensiuni create de Acțiunea ta Individuală.
 
-În cazul în care Acțiunea dvs. Individuală a fost efectiv realizată în cadrul unui alt Rol, sau a încălcat un Domeniu sau o Politică, atunci trebuie să încetezi în a continua  să faci Acțiuni Individuale similare, până când vei face o cerere către cel care controlează în mod normal acel Rol, Domeniu, sau Politică, sau către Lead Link-ului Cercului care deține entitatea afectată.
+În cazul în care Acțiunea ta Individuală a fost efectiv realizată în cadrul unui alt Rol sau a încălcat un Domeniu sau o Politică, atunci trebuie să încetezi a continua să faci Acțiuni Individuale similare, până când vei face o cerere către cel care controlează în mod normal acel Rol, Domeniu, sau Politică sau către Lead Link-ului Cercului care deține entitatea afectată.
 
 #### 4.3.3 CLARIFICAREA GUVERNANȚEI
 
-În cazul în care Acțiunea dvs. Individuală prezintă contextul unei activități recurente sau a unei funcții necesare în Cerc, iar activitatea sau funcția nu este deja formulată în mod explicit de Guvernanța Cercului, atunci sunteți responsabil pentru luarea de măsuri pentru a elimina acest decalaj. Această responsabilitate poate include o propunere de Guvernanță pentru a acoperi necesitatea, sau de a lua măsuri pentru a elimina nevoia pentru ca această activitate sau funcție să se mai întâmple vreodată.
+În cazul în care Acțiunea ta Individuală prezintă contextul unei activități recurente sau a unei funcții necesare în Cerc, iar activitatea sau funcția nu este deja formulată în mod explicit de Guvernanța Cercului, atunci eşti responsabil pentru luarea de măsuri pentru eliminarea acestui decalaj. Această responsabilitate poate include o propunere de Guvernanță pentru a acoperi necesitatea sau de a lua măsuri pentru a elimina nevoia pentru ca această activitate sau funcție să se mai întâmple vreodată.
 
 #### 4.3.4 PRIORITATEA CERINȚEI COROLARULUI
 
-După ce ai luat Acțiunea Individuală, aveți datoria să acordați prioritate față de cerințele corolare definite în această secțiune, mai mult decât a face oricare dintre activitățile voastre regulate. Cu toate acestea, Lead Link-ul din orice Cerc care conține pe deplin toate Rolurile care au fost afectate în mod semnificativ de acțiunea dumneavoastră poate schimba această prioritate implicită.
+După ce ai realizat Acțiunea Individuală, ai datoria să acorzi prioritate cerinţelor corolare definite în această secțiune, mai mult decât să realizezi activitățile tale regulate. Cu toate acestea, Lead Link-ul din orice Cerc care conține pe deplin toate Rolurile care au fost afectate în mod semnificativ de acțiunea ta poate schimba această prioritate implicită.
 
-## ARTICOLUL V: CONTEAZĂ ADOPTAREA
+## ARTICOLUL V: ADOPTAREA CONTEAZĂ
 
 ### 5.1 SEMNATARII CEDEAZĂ AUTORITATEA
 
-Prin adoptarea acestei Constituții, Semnatarii ei cedează autoritatea lor de a guverna și conduce Organizația sau de a coordona în mod direct Partenerii săi, și nu mai poate face acest lucru decât cu excepția și prin autoritatea acordată acestora în conformitate cu normele și procesele actualei Constituții. Totuși, face excepție de la această regulă, orice autoritate pe care Semnatarii nu au posibilitatea de a o delega continuând deci să o dețină și să o exercite, cum ar fi orice cerință impusă de politici din afara controlului lor, sau de către statutului legal al Organizației.
+Prin adoptarea acestei Constituții, Semnatarii ei cedează autoritatea lor de a guverna și de a conduce Organizația sau de a coordona în mod direct Partenerii săi și nu mai poate face acest lucru decât cu excepția și prin autoritatea acordată acestora în conformitate cu normele și procesele actualei Constituții. Totuși, face excepție de la această regulă orice autoritate pe care Semnatarii nu au posibilitatea de a o delega, cum ar fi orice cerință impusă de politici din afara controlului lor sau de către statutului legal al Organizației.
 
 ### 5.2 CERCUL ANCORĂ
 
-Înainte de adoptarea acestei Constituții, Semnatarii trebuie să stabilească un Cerc inițial care să exprime Scopul general al Organizației. Acest **_"Cerc Ancoră"_** devine cel mai larg Cerc din Organizației și controlează automat toate domeniile pe care Organizația însăși le controlează.
+Înainte de adoptarea acestei Constituții, Semnatarii trebuie să stabilească un Cerc inițial care să exprime Scopul general al Organizației. Acest **_"Cerc Ancoră"_** devine cel mai larg Cerc din Organizației și controlează în mod automat toate Domeniile pe care Organizația însăși le controlează.
 
 #### 5.2.1 LEGĂTURI LA CERCUL ANCORĂ
 
 Semnatarii pot numi un Lead Link inițial al Cercului Ancoră.
 
-În mod alternativ, Semnatarii pot lăsa Cercul Ancoră fără un Lead Link, și să creeze una sau mai multe Cross Link-uri la Cercul Ancoră, în locul unui Lead Link.
+În mod alternativ, Semnatarii pot lăsa Cercul Ancoră fără un Lead Link și pot să creeze una sau mai multe Cross Link-uri la Cercul Ancoră, în locul unui Lead Link.
 
 #### 5.2.2 ACȚIONAREA FĂRĂ UN LEAD LINK
 
-În cazul în care Cercul Ancoră nu are un Lead Link, toate deciziile care necesită în mod normal autoritatea unui Lead Link devin rezoluții valide pentru Procesul de Guvernanță a Cercului. Orice Rol din cadrul Cercului poate, astfel, exercita autoritatea unui Lead Link, propunând o decizie precum schimbarea Guvernanței Cercului, folosind procesul și normele prevăzute la articolul III.
+În cazul în care Cercul Ancoră nu are un Lead Link, toate deciziile care necesită în mod normal autoritatea unui Lead Link devin rezoluții valide pentru Procesul de Guvernanță al Cercului. Orice Rol din cadrul Cercului poate, astfel, exercita autoritatea unui Lead Link, propunând o decizie precum schimbarea Guvernanței Cercului, folosind procesul și normele prevăzute la Articolul III.
 
-În plus, într-un Cerc Ancoră fără Lead Link, autoritatea normală a Rolurilor de a avea un impact autocratic asupra Domeniilor Cercului (precum în Secțiunea 2.1.2) este revocată. În schimb, Rolurile Cercului pot avea impact asupra Domeniile sale doar dacă o Politică permite în mod explicit acest lucru, sau, în mod alternativ, prin propunerea de acțiuni folosind Procesul de Guvernanță a Cercului, exact așa cum s-a descris mai sus pentru exercitarea autorității Lead Link-ului.
+În plus, într-un Cerc Ancoră fără Lead Link, autoritatea normală a Rolurilor de a avea un impact autocrat asupra Domeniilor Cercului (precum în Secțiunea 2.1.2) este revocată. În schimb, Rolurile Cercului pot avea impact asupra Domeniilor sale doar dacă o Politică permite în mod explicit acest lucru, sau, în mod alternativ, prin propunerea de acțiuni folosind Procesul de Guvernanță al Cercului, exact așa cum s-a descris mai sus pentru exercitarea autorității Lead Link-ului.
 
 #### 5.2.3 SCOPUL ORGANIZAȚIEI
 
-Cercul Ancoră este automat responsabil pentru a descoperi și a exprima Scopul general al Organizației. Scopul Organizație este cel mai profund potențial creativ care poate fi exprimat în mod durabil în lume, având în vedere toate constrângerile care acționează asupra ei, dar și tot de ce dispune. Acest lucru poate include istoria sa, capacitățile actuale, resursele disponibile, Parteneri, caracterul, cultura, structura de afaceri, marca, conștientizarea pieței, precum și orice alte resurse sau factori relevanți.
+Cercul Ancoră este responsabil în mod automat pentru a descoperi și pentru a exprima Scopul general al Organizației. Scopul Organizației este cel mai profund potențial creativ care poate fi exprimat în mod durabil în lume, având în vedere toate constrângerile care acționează asupra ei, dar și tot de ce dispune. Acest lucru poate include istoria sa, capacitățile actuale, resursele disponibile, Parteneri, caracterul, cultura, structura de afaceri, marca, conștientizarea pieței, precum și orice alte resurse sau factori relevanți.
 
-Lead Link-ul Cercului Ancoră preia această Responsabilitate în mod implicit, și poate capta și actualiza Scopul pentru a-și exprima această Responsabilitate.
+Lead Link-ul Cercului Ancoră preia această Responsabilitate în mod implicit și poate capta și actualiza Scopul pentru a-și exprima această Responsabilitate.
 
-În cazul în care Cercul Ancoră nu are un Lead Link, această Responsabilitate ajunge în mod automat la oricare Cross Link a Cercului Ancoră, și oricare dintre aceștia poate să actualizeze Scopul prin intermediul Procesului de Guvernanță a Cercului. 
+În cazul în care Cercul Ancoră nu are un Lead Link, această Responsabilitate ajunge în mod automat la oricare Cross Link al Cercului Ancoră, și oricare dintre aceștia poate să actualizeze Scopul prin intermediul Procesului de Guvernanță al Cercului. 
 
 #### 5.2.4 ACTUALIZAREA CERCULUI ANCORĂ
 
-Lead Link-ul Cercului Ancoră are autoritatea de a numi Cercul, a clarifica Domeniile sale, și a adăuga sau modifica Responsabilitățile sale.
+Lead Link-ul Cercului Ancoră are autoritatea de a numi Cercul, a clarifica Domeniile sale și a adăuga sau modifica Responsabilitățile sale.
 
-Lead Link-ul Cercului Ancoră poate numi, de asemenea, propriul său înlocuitor  după cum dorește, cu excepția cazului în care se prevede altfel de către Semnatari.
+Lead Link-ul Cercului Ancoră poate numi, de asemenea, propriul său înlocuitor după cum dorește, cu excepția cazului în care se prevede altfel de către Semnatari.
 
 #### 5.2.5 FĂRĂ SUPER-CERC
 
