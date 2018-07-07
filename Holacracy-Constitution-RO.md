@@ -596,21 +596,21 @@ Lead Link-ul Cercului Ancoră poate numi, de asemenea, propriul său înlocuitor
 
 #### 5.2.5 FĂRĂ SUPER-CERC
 
-Cercul Ancoră nu are nici un Super-Cerc, și nu alege nici un Rep Link.
+Cercul Ancoră nu are nici un Super-Cerc și nu alege nici un Rep Link.
 
 ### 5.3 STRUCTURA INIȚIALĂ
 
-Lead Link-ul Cercului Ancoră poate defini o structură inițială și altele Guvernanțe pentru Organizație, în afara Procesului de Guvernanță uzual cerut de această Constituție. În cazul în care structura inițială include și alte Cercuri, Lead Link-urile din aceste cercuri pot face același lucru în cadrul cercurilor lor. Această autoritate poate fi utilizată doar pentru a defini o structură inițială pentru un Cerc, înainte ca Cercul să înceapă efectiv să își desfășoare propriul Proces de Guvernanță.
+Lead Link-ul Cercului Ancoră poate defini o structură inițială și altă Guvernanță pentru Organizație, în afara Procesului de Guvernanță obişnuit cerut de această Constituție. În cazul în care structura inițială include și alte Cercuri, Lead Link-urile din aceste cercuri pot face același lucru în cadrul cercurilor lor. Această autoritate poate fi utilizată doar pentru a defini o structură inițială pentru un Cerc, înainte ca Cercul să înceapă efectiv să își desfășoare propriul Proces de Guvernanță.
 
-### 5.4 POLITICI ȘI SISTEME MOȘTENITE
+### 5.4 POLITICI MOŞTENITE ȘI SISTEME 
 
-Orice politici și sisteme existente ale Organizației, aflate în vigoare înainte de adoptarea acestei Constituții, rămâne mai departe valide după adoptarea acesteia, chiar dacă acestea includ constrângeri sau autorități care nu sunt reflectate în rezoluțiile Procesului de Guvernanță. Acestea pot include sistemele de beneficii și compensații, procesele de angajarea și concediere, politicile legate de organizarea muncii, etc.
+Orice politici și sisteme existente ale Organizației, aflate în vigoare înainte de adoptarea acestei Constituții, rămân mai departe valide după adoptarea acesteia, chiar dacă acestea includ constrângeri sau autorități care nu sunt reflectate în rezoluțiile Procesului de Guvernanță. Acestea pot include sistemele de beneficii și compensații, procesele de angajare și concediere, politicile legate de organizarea muncii, etc.
 
-Cu toate acestea, aceste politici și sisteme existente vor pierde din relevanță și autoritate de îndată ce o Guvernanță este definită, iar aceasta o poate înlocui sau anula. În plus, ele nu pot fi modificate sau adăugate în forma lor moștenită înainte de adoptarea Constituției. Oricine care dorește să facă acest lucru trebuie să cuprindă sau să împuternicească într-un fel respectiva politică sau sistem, folosindu-se de Procesul de Guvernanță definit în prezenta Constituție.
+Cu toate acestea, aceste politici și sisteme existente vor pierde din relevanță și autoritate de îndată ce o Guvernanță este definită, iar aceasta o poate înlocui sau anula. În plus, ele nu pot fi modificate sau adăugate în forma lor moștenită înainte de adoptarea Constituției. Oricine dorește să facă acest lucru trebuie să cuprindă sau să împuternicească într-un fel- respectiva politică sau sistem, folosindu-se de Procesul de Guvernanță definit în prezenta Constituție.
 
 ### 5.5 AMENDAMENTE LA CONSTITUȚIE ȘI ABROGAREA EI
 
-Semnatarii sau succesorii acestora pot modifica această Constituție sau să o abroge în întregime, folosind orice autoritate și proces pe care s-au bazat când au adoptat-o inițial. Amendamentele trebuie să fie făcute în scris și publicate către toți partenerii Organizație unde aceștia le pot accesa.
+Semnatarii sau succesorii acestora pot modifica această Constituție sau să o abroge în întregime, folosind orice autoritate și proces pe care s-au bazat când au adoptat-o inițial. Amendamentele trebuie să fie făcute în scris și publicate acolo unde toți Partenerii Organizației le pot accesa.
 
 ---
 
