@@ -165,7 +165,7 @@ Fiecare Cerc include un **_”Rol de Facilitator”_**, un **_”Rol de Secretar
 
 #### 2.5.1 ALEGERI ȘI ELIGIBILITATE 
 
-Facilitatorul fiecărui Cerc va înlesni alegerile regulate în vederea alegerii unui Membru de Baza a Cercului în fiecare din Rolurile Votate, folosind procesul și regulile definite în Articolul III.
+Facilitatorul fiecărui Cerc va înlesni alegerile regulate în vederea alegerii unui Membru de Baza al Cercului în fiecare din Rolurile Votate, folosind procesul și regulile definite în Articolul III.
 
 Toți Membrii De Baza ai Cercului sunt eligibili pentru alegeri si fiecare pot deține mai multe Roluri Votate, cu excepția Lead Link-ului Cercului, care nu poate fi ales ca si Facilitator sau Rep Link.
 
@@ -175,7 +175,7 @@ Toți Membrii De Baza ai Cercului sunt eligibili pentru alegeri si fiecare pot d
 
 #### 2.5.3 MODIFICAREA ROLURILOR ALESE
 
-Un Cerc poate adăuga Responsabilități sau Domenii la Rolurile Votate, de asemenea poate să le modifice sau să le reprime ulterior.
+Un Cerc poate adăuga Responsabilități sau Domenii la Rolurile Votate, însă de asemenea poate să le modifice sau să le reprime ulterior.
 
 Însă un Cerc poate adăuga aceste lucruri doar la propriul Rol de Rep Link și nu la un Rep Link delegat în Cerc de un alt Sub-Cerc.
 
@@ -183,7 +183,7 @@ Un Cerc poate adăuga Responsabilități sau Domenii la Rolurile Votate, de asem
 
 #### 2.5.4 ÎNLOCUITORI PENTRU ROLURI VOTATE
 
-Un înlocuitor poate îndeplini temporar un Rol Votat atunci când Rolul este vacant sau când persoana care în mod normal împlinește acel Rol este indisponibilă pentru o întâlnire a Cercului sau se simte în incapacitate ori dovedeşte o lipsă de motivație să își exercite îndatoririle date de Rol.
+Un înlocuitor poate îndeplini temporar un Rol Votat atunci când Rolul este vacant sau când persoana care în mod normal împlinește acel Rol este indisponibilă pentru o întâlnire a Cercului sau se simte în incapacitate ori dovedeşte o lipsă de motivație să își exercite îndatoririle conferite de către Rol.
 
 În oricare din aceste situații, atunci când e necesar un înlocuitor, acesta este stabilit în ordinea următoare:
 
@@ -279,9 +279,9 @@ Doar acele rezoluții enumerate în această secțiune sunt Guvernări valide pe
 
 ### 3.2 SCHIMBAREA GUVERNĂRII
 
-Orice Membru de Bază a unui Cerc poate propune schimbarea Guvernări acestuia, făcând o **_”Propunere”_** ca și **_”Propunător”_**.
+Orice Membru de Bază a unui Cerc poate propune schimbarea Guvernării acestuia, făcând o **_”Propunere”_** ca și **_”Propunător”_**.
 
-Înainte ca o Propunere să fie adoptată, toți Membrii de Bază ai Cercului trebuie să aibă oportunitatea de a exprima Tensiuni legate de adoptarea Propunerii. Fiecare Tensiune astfel exprimată este considerată o **_”Obiecție”_** dacă îndeplinește criteriile definite în această secțiune, iar persoana care a exprimat-o devine **_”Contestator”_**.
+Înainte ca o Propunere să fie adoptată, toți Membrii de Bază ai Cercului trebuie să aibă ocazia de a exprima Tensiuni legate de adoptarea Propunerii. Fiecare Tensiune astfel exprimată este considerată o **_”Obiecție”_** dacă îndeplinește criteriile definite în această secțiune, iar persoana care a exprimat-o devine **_”Contestator”_**.
 
 Propunerile sunt considerate adoptate și modifică Guvernanța Cercului doar dacă nici o obiecție nu este exprimată. Dacă sunt Obiecții exprimate, Propunătorul și cu fiecare Contestator trebuie să găsească o modalitate de a rezolva Obiecția înainte ca Cercul să adopte Propunerea, după care toți Membrii de Bază ai Cercului trebuie să aibă încă o oportunitate de a ridica alte Obiecții înainte ca Propunerea să fie adoptată. 
 
@@ -466,18 +466,18 @@ La împlinirea unui Rol într-un cerc, ai următoarele obligații față de ceil
 
 #### 4.1.1 OBLIGAȚIA DE TRANSPARENȚĂ
 
-Ai obligația de a oferi transparență atunci când este solicitată de către colegii Membri de Cerc, în oricare dintre următoarele domenii:
+Ai obligația de a oferi transparență atunci când ea este solicitată de către colegii Membri de Cerc, în oricare dintre următoarele domenii:
 
-- **(a) Proiecte & Acțiuni Următoare:** Trebuie să împărtășești orice Proiecte și Acțiuni Următoare pe care le urmăriți pentru Rolurile dvs. din Cerc.
-- **(b) Prioritate relativă:** Trebuie să împărtășești modul în care îți stabilești prioritățile în oricare Proiect sau Acțiune Următoare pentru Rolurile tale din Cerc, precum și față de orice alte activități potențiale care concurează pentru atenția sau resursele tale.
+- **(a) Proiecte & Acțiuni Următoare:** Trebuie să împărtășești orice Proiecte și Acțiuni Următoare pe care le urmăreşti pentru Rolurile tale din Cerc.
+- **(b) Prioritate relativă:** Trebuie să împărtășești modul în care îți stabilești prioritățile în oricare Proiect sau în oricare Acțiune Următoare pentru Rolurile tale din Cerc, precum și față de orice alte activități potențiale care concurează pentru atenția sau resursele tale.
 - **(c) Previziunile:** Trebuie să furnizezi o estimare a datei pe care o anticipezi în completarea oricărui Proiect sau Acțiune-Următoare pentru oricare din Rolurile tale din Cerc. O estimare aproximativă este suficientă, având în vedere contextul actual și prioritățile avute, fără o analiză sau planificare detaliată. Această proiecție nu este un angajament obligatoriu în nici un fel, cu excepția cazului în care Guvernanța spune altfel; deci nu ai nici o obligație pentru a îndeplini previziunea făcută, pentru a gestiona munca, pentru a realiza acest lucru sau a informa solicitantul dacă se schimbă ceva.
-- **(d)** Lista de verificare și Măsurători: Trebuie să anunți atunci când ai terminat orice acțiune regulată și recurentă pe care o efectuezi în mod curent în serviciul Rolurilor tale din Cerc. De asemenea, trebuie să înregistezi și să raportezi cu privire la orice Măsurătoare atribuită Rolurile tale de către Lead Link-ul Cercului sau de către alt rol sau proces care are acordată autoritatea de a defini Măsurătorile Cercului.
+- **(d)** Lista de verificare și Măsurători: Trebuie să anunți atunci când ai terminat orice acțiune regulată și recurentă pe care o efectuezi în mod curent în serviciul Rolurilor tale din Cerc. De asemenea, trebuie să înregistezi și să raportezi cu privire la orice Măsurătoare atribuită Rolurilor tale de către Lead Link-ul Cercului sau de către alt rol sau proces care are acordată autoritatea de a defini Măsurătorile Cercului.
 
 #### 4.1.2 OBLIGAȚIA DE PROCESARE
 
 Ai datoria de a procesa cu promptitudine mesaje și solicitări venite din partea colegilor din Cerc, după cum urmează:
 
-- **(a) Cererile de procesare:** Un Membru al Cercului poate să îți ceară să efectuezi orice responsabilitate sau proiect specific Rolului pe care îl ai în Cerc. Dacă nu ai nicio Acțiune Următoare stabilită pentru aceasta, atunci trebuie să identifici și să efectuezi o Acțiune Următoare în cazul în care există una rezonabilă pe care o poţi lua. În cazul în care nu există, trebuie să exprimi ce așteptare ai. Aceasta poate fi o Acțiune Următoare sau un Proiect urmărit de către un alt Rol sau un eveniment sau condiție care trebuie să aibă loc înainte de a putea lua o Acțiune Următoare.
+- **(a) Cererile de procesare:** Un Membru al Cercului poate să îți ceară să efectuezi orice sarcină sau proiect specific Rolului pe care îl ai în Cerc. Dacă nu ai nicio Acțiune Următoare stabilită pentru aceasta, atunci trebuie să identifici și să efectuezi o Acțiune Următoare în cazul în care există una rezonabilă pe care o poţi efectua. În cazul în care nu există, trebuie să exprimi ce așteptare ai. Aceasta poate fi o Acțiune Următoare sau un Proiect urmărit de către un alt Rol sau un eveniment sau condiție care trebuie să aibă loc înainte de a putea realiza o Acțiune Următoare.
 - **(b) Cererea de Proiecte și Acțiuni Următoare:** Alți Membri ai Cercului îți pot solicita să faci o anumită Acțiune Următoare sau Proiect din unul dintre rolurile voastre din Cerc. Dacă consideri a fi o Acțiune Următoare sau Proiect rezonabil, atunci trebuie să-l accepți și să-l finalizezi. Dacă nu este ceva rezonabil, atunci trebuie să explici raționamentul tău pentru refuz sau să comunici un alt Proiect sau Acțiune Următoare care credezi că va îndeplini Obiectivul solicitantului.
 - **(c) Solicitări cu Impact asupra Domeniului:** Alți  Membri ai Cercului îți pot solicita să acționeze într-un domeniu controlat de unul din Rolurile tale din Cerc. Dacă nu vezi nici o Obiecție cu privire la solicitarea făcută, trebuie să permiţi intervenția. Dacă vezi însă o Obiecție, atunci trebuie să o explici solicitantului.
 
@@ -533,13 +533,13 @@ Un Cerc poate adopta o Politică prin care poate adăuga sau modifica acest proc
 
 ### 4.3 ACȚIUNE INDIVIDUALĂ
 
-Ca Partener al Organizației, în unele cazuri ești autorizat să acționezi în afara autorității Rolurilor dumneavoastră sau chiar să încalci regulile din această Constituție. Acționând în această autoritate extinsă vă asumaţi așa-zisa **_"Acțiune Individuală"_** și sunteți obligat să urmați următoarele reguli:
+Ca Partener al Organizației, în unele cazuri ești autorizat să acționezi în afara autorității Rolurilor tale sau chiar să încalci regulile din această Constituție. Acționând în această autoritate extinsă îţi asumi așa-zisa **_"Acțiune Individuală"_** și eşti obligat să urmezi următoarele reguli:
 
 #### 4.3.1 SITUAȚII PERMISE
 
-Poţi lua o Acțiune Individuală numai atunci când toate caracteristicile următoare sunt adevărate:
+Poţi realiza o Acțiune Individuală numai atunci când toate caracteristicile următoare sunt adevărate:
 
-- **(a)** Acționezi cu bună-credință pentru a servi scopul sau pentru a exprima Responsabilitatea unui anumit Rol din cadrul Organizației sau la nivelul întregii Organizații.
+- **(a)** Acționezi cu bună-credință pentru a servi Scopul sau pentru a exprima Responsabilitatea unui anumit Rol din cadrul Organizației sau la nivelul întregii Organizații.
 - **(b)** Crezi în mod rezonabil că acțiunea ta ar rezolva sau ar preveni o Tensiune mai mare pentru Organizație decât s-ar crea în mod normal.
 - **(c)** Acțiunea ta nu ar cauza, nu ar angaja sau nu ar permite cheltuieli sau nu ar folosi resursele Organizației sau ale altor active, dincolo de ceea ce eşti deja autorizat să foloseşti.
 - **(d)** În cazul în care acțiunea ta ar încălca vreun domeniu sau vreo politică existentă, ai în mod rezonabil credința că nu se poate întârzia acțiunea suficient de mult pentru a solicita permisiunile necesare sau să propui o schimbare în Guvernanță care să permită acțiunea ta, fără a pierde o mare parte din valoarea sa potențială.
@@ -604,7 +604,7 @@ Lead Link-ul Cercului Ancoră poate defini o structură inițială și altă Guv
 
 ### 5.4 POLITICI MOŞTENITE ȘI SISTEME 
 
-Orice politici și sisteme existente ale Organizației, aflate în vigoare înainte de adoptarea acestei Constituții, rămân mai departe valide după adoptarea acesteia, chiar dacă acestea includ constrângeri sau autorități care nu sunt reflectate în rezoluțiile Procesului de Guvernanță. Acestea pot include sistemele de beneficii și compensații, procesele de angajare și concediere, politicile legate de organizarea muncii, etc.
+Orice politici și sisteme existente ale Organizației, aflate în vigoare înainte de adoptarea acestei Constituții, rămân mai departe valabile după adoptarea acesteia, chiar dacă acestea includ constrângeri sau autorități care nu sunt reflectate în rezoluțiile Procesului de Guvernanță. Acestea pot include sistemele de beneficii și compensații, procesele de angajare și concediere, politicile legate de organizarea muncii, etc.
 
 Cu toate acestea, aceste politici și sisteme existente vor pierde din relevanță și autoritate de îndată ce o Guvernanță este definită, iar aceasta o poate înlocui sau anula. În plus, ele nu pot fi modificate sau adăugate în forma lor moștenită înainte de adoptarea Constituției. Oricine dorește să facă acest lucru trebuie să cuprindă sau să împuternicească într-un fel- respectiva politică sau sistem, folosindu-se de Procesul de Guvernanță definit în prezenta Constituție.
 
