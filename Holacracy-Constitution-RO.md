@@ -24,7 +24,7 @@ Ești responsabil de monitorizarea felului în care Scopul și Responsabilităț
 
 #### 1.2.2 SCOPUL PRELUCRĂRII ŞI RESPONSABILITĂŢI
 
-Ești responsabil să cântăreşti în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
+Ești responsabil să gândeşti în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
 
 - **(a)** **_"Acțiunile Următoare"_**, care sunt acțiuni pe care le poți executa imediat și care sunt utile a fi executate imediat, cel puțin în absența unor priorități concurente; și 
 - **(b)** **_"Proiecte"_**, care sunt rezultate specifice care au nevoie de realizarea mai multor acțiuni secvențiale și care sunt utile a fi realizate, cel puțin în lipsa unor priorități concurente. 
@@ -49,7 +49,7 @@ Ca și Partener căruia i-a fost atribuit un Rol, ai autoritatea de a executa or
 
 ### 1.4 AUTORITATEA PESTE DOMENII
 
-Ca și Partener căruia i-a fost atribuit un rol, ai autoritatea de a controla și de a reglementa fiecare Domeniu al Rolului tău. Poți face asta de la caz la caz atunci când alții îți cer permisiunea să influențeze unul din Domeniile tale, prin a lua în considerare solicitarea și a-i permite sau nu permisiunea.
+Ca și Partener căruia i-a fost atribuit un rol, ai autoritatea de a controla și de a reglementa fiecare Domeniu al Rolului tău. Poți face asta de la caz la caz atunci când alții îți cer permisiunea de a influenţa unul din Domeniile tale, prin acţiunea de a lua în considerare solicitarea și a-i permite sau nu permisiunea.
 
 Poți de asemenea să definești **_”Politici”_** pentru Domeniile tale, care sunt ori concesii de autoritate care le permite altora să controleze sau să cauzeze un impact fizic în cadrul unui Domeniu, sau să limiteze modul în care alții pot acționa când sunt autorizați. Înainte ca o Politică să fie validă, tu trebuie să o publici într-un forum accesibil tuturor Partenerilor care vor fi influențați de aceasta.
 
@@ -110,9 +110,9 @@ Când acest lucru se întâmplă, în mod automat orice element relevant sau aut
 
 ### 2.3 MEMBRII DE BAZĂ AI CERCULUI
 
-La o parte din Membrii Cercului le este permis să ia parte la Procesul de Guvernanță al Cercului și sunt numiți **_”Membrii de Baza ai Cercului”_**.
+Unei părţi din Membrii Cercului îi este permis să ia parte la Procesul de Guvernanță al Cercului și sunt numiți **_”Membrii de Bază ai Cercului”_**.
 
-Acești **_”Membrii de Baza ai Cercului”_** sunt aleși prin utilizarea următoarelor reguli:
+Acești **_”Membrii de Baza ai Cercului”_** sunt aleși prin folosirea următoarelor reguli:
 
 #### 2.3.1 CALITATEA DE MEMBRU
 
@@ -125,7 +125,7 @@ Acești **_”Membrii de Baza ai Cercului”_** sunt aleși prin utilizarea urm�
 
 #### 2.3.2 EXCLUDERE PENTRU ROLURI MULTIPLE
 
-Dacă mai mulți Parteneri sunt alocați la același Rol Definit din Cerc, Cercul poate să adopte o Politică care să limiteze câți dintre aceștia sunt Membrii de Bază ai Cercului ca urmare a alocării acelui Rol. Însă acea Politică trebuie să permită cel puțin unui Partener care împlinește acel Rol să îl reprezinte ca și Membru de Bază al Cercului și trebuie să specifice modul în care acel reprezentant va fi determinat.
+Dacă mai mulți Parteneri sunt alocați în cadrul aceluiaşi Rol Definit din Cerc, Cercul poate să adopte o Politică ce poate să să limiteze câți dintre aceștia sunt Membri de Bază ai Cercului ca urmare a alocării acelui Rol. Însă acea Politică trebuie să permită cel puțin unui Partener care împlinește acel Rol să îl reprezinte ca și Membru de Bază al Cercului și trebuie să specifice modul în care acel reprezentant va fi determinat.
 
 În plus, fiecare Partener care reprezintă acel Rol are datoria de a lua în considerare și a procesa Tensiunile vehiculate de către Partenerii excluși, în același mod prin care un Rep Link o face ca Rol al unui Sub-Cerc, cu excepția cazului în care există o Politică care definește în mod alternativ o modalitate prin care Partenerii excluși să își proceseze Tensiunile legate de acel Rol.
 
@@ -135,19 +135,19 @@ Uneori, un Partener poate aloca o atenție minimă, aproape insignifiantă unui 
 
 Dacă un Partener a fost exclus în acest mod, Lead Link-ul are datoria de a lua în considerare și a procesa Tensiunea cauzată de excluderea acelui Partener, la fel cum un Rep Link o face ca Rol al unui Sub-Cerc, cu excepția cazului în care există o Politică care definește în mod alternativ o modalitate prin care Partenerii excluși să își proceseze Tensiunile legate de acel Rol.
 
-#### 2.3.4 NUMIRI SPECIALE DE MEMBRII DE BAZĂ
+#### 2.3.4 NUMIRI SPECIALE PENTRU MEMBRII DE BAZĂ
 
 Lead Link-ul unui Cerc poate numi în mod special persoane adiționale pentru a servi ca Membru de Baza a Cercului, în afara specificațiilor acestei Constituții și poate îndepărta această numire specială în orice moment.
 
 ### 2.4 ATRIBUIREA ROLURILOR
 
-Lead Link-ul unui Cerc poate atribui oamenilor Roluri Definite în Cerc, roluri pe care aceștia să le împlinească, cu excepția cazului în care această autoritate i-a fost limitată sau delegată.
+Lead Link-ul unui Cerc poate atribui oamenilor Roluri Definite în Cerc, roluri pe care aceștia să le împlinească, cu excepția cazului în care această autoritate le-a fost limitată sau delegată.
 
 #### 2.4.1 ROLURI NEOCUPATE
 
-Oricând un Rol Definit din Cerc nu este ocupat, Lead Link-ul acelui Cerc se consideră că împlinește și acel Rol.
+Oricând un Rol Definit din Cerc nu este ocupat, este considerat că Lead Link-ul acelui Cerc îndeplineşte și acel Rol.
 
-#### 2.4.2 ATRIBUIREA ACELUIAȘI ROL LA MAI MULTE PERSOANE
+#### 2.4.2 ATRIBUIREA ACELUIAȘI ROL MAI MULTOR PERSOANE
 
 Un Lead Link poate atribui același Rol Definit mai multor persoane, atâta timp cât acest lucru nu va afecta negativ claritatea în ceea ce le priveşte pe persoanele care trebuie să împlinească Responsabilitățile și autoritățile acelui Rol în contextul standard de operare. 
 
