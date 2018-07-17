@@ -2,7 +2,7 @@
 
 ### PREAMBUL
 
-Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și pentru operaţiunile unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva este de acord să facă parte din Guvernanță și din operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile conferite de către această Constituție şi de asemenea, pot să se fie de acord cu îndatoririle și constrângerile acesteia. 
+Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanța și pentru operaţiunile unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizația”_** specificată la adoptarea acestei Constituții, organizație care poate fi o întreagă entitate sau o parte a uneia în care ”Semnatarii” au autoritatea de a conduce și a Guverna. ”Semnatarii” și oricine altcineva care este de acord să facă parte din Guvernarea și din operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile conferite de către această Constituție şi, de asemenea, sunt de acord cu îndatoririle și constrângerile acesteia. 
 
 ## ARTICOLUL I: ROLURI ENERGIZANTE
 
